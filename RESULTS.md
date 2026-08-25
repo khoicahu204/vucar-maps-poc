@@ -42,3 +42,21 @@
 VIETMAP_API_KEY=... VALHALLA_URL=http://15.235.202.74:8010 \
   python3 benchmark/benchmark_matrix.py --pairs benchmark/pairs_real.json
 ```
+
+## Bổ sung 25/08 — Test 500 maplocation thật (60 tuyến ngẫu nhiên)
+
+| Chỉ số | DISTANCE (km) | TIME (phút) |
+|---|---|---|
+| |mean Δ| | 1.70 km | **12.7 phút** |
+| bias (VH−VM) | +0.64 km | **+12.7 phút** |
+| % lệch ≤10% | 57% | — |
+| **NO_ROUTE** | **20/60 = 33%** ⚠️⚠️ | |
+
+**Kết luận quan trọng:**
+1. ✅ **Khoảng cách OK** — Valhalla tính distance khá sát Vietmap (bias +0.6km, 57% lệch ≤10%).
+2. ❌ **Thời gian lệch hệ thống +8→+13 phút** — do speed profile thấp hơn xe máy VN thực tế (cần calibrate, chưa đạt tiêu chí).
+3. ❌❌ **NO_ROUTE = 33%** — Valhalla không route được ~1/3 tuyến thật (plus-code/vùng OSM thiếu đường/snap fail). Đây là rào cản lớn nhất cho scheduling (không tính được travel = không validate được slot).
+
+→ **Valhalla/OSM hiện CHƯA thay thế được Vietmap cho scheduling** (distance ok nhưng time bias + NO_ROUTE quá cao). Giữ Vietmap + cache (PR #407) là hướng khả thi nhất hiện tại.
+
+Test geocode (address→coords) chưa chạy — cần build Nominatim/Photon VN (~1-2h) — kết quả routing cho thấy OSM VN còn lỗ hổng, nên cân nhắc trước khi đầu tư thời gian.

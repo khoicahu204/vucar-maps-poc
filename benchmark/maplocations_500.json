@@ -1,0 +1,3002 @@
+[
+ {
+  "id": "70d12e09-c1a5-400c-add8-2f2589d547f4",
+  "lat": 21.10833012,
+  "lng": 105.77109058,
+  "address": "Xã Võng La, Huyện Đông Anh, Thành phố Hà Nội"
+ },
+ {
+  "id": "68dacb98-80b5-4fd1-83e2-08c7020e2aa9",
+  "lat": 10.82566232,
+  "lng": 106.61643023,
+  "address": "Trung Tâm Hành Chính Công Phường Đông Hưng Thuận - 68 Tân Thới Nhất 14, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e9b17b3e-a980-4f8d-a1cf-456163bfee3c",
+  "lat": 20.8889375,
+  "lng": 105.86035938,
+  "address": "VVQ6+H4H - Xã Thường Tín,Thành phố Hà Nội"
+ },
+ {
+  "id": "a20e986c-ad74-4109-8b3e-7cb800255a4b",
+  "lat": 11.0431182,
+  "lng": 106.6353243,
+  "address": "104 Đại Lộ Bình Dương Tổ 4 Khu Phố 2 - Phường Hòa Lợi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c08f85f2-4f37-4a82-9e2f-2d4a429593ce",
+  "lat": 16.05878821,
+  "lng": 108.16446776,
+  "address": "4 Thích Quảng Đức - Phường Hòa Minh, Quận Liên Chiểu, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "0f0781f3-8ed1-4f39-9489-e9981a1458b9",
+  "lat": 10.80074493,
+  "lng": 106.65459584,
+  "address": "99C/2 Cộng Hòa Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "cc264bb9-4180-4764-b0fa-7a457409e6fd",
+  "lat": 10.7074204,
+  "lng": 106.6234524,
+  "address": "1 Trịnh Quang Nghị, Phường Bình Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "904402c8-ad6f-4cfe-9af6-59e954fb9e33",
+  "lat": 21.0241063,
+  "lng": 105.8081799,
+  "address": "Bệnh viện Nhi Trung ương, ngõ 80 Chùa Láng, Hà Nội"
+ },
+ {
+  "id": "bc29ce62-1379-4c62-98f6-3805c8663223",
+  "lat": 21.06384055,
+  "lng": 105.7465365,
+  "address": "12 Phúc Lý - Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "a864846b-556f-424b-8454-aee3a677257e",
+  "lat": 10.73198798,
+  "lng": 106.72884847,
+  "address": "2 Nguyễn Văn Tưởng Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ceccff32-8256-4794-9036-3bb866093758",
+  "lat": 10.9409402,
+  "lng": 107.1267406,
+  "address": "56-59 Khu Dân Cư Xóm Hố, Xã Bàu Hàm 2, Huyện Thống Nhất, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "cd1ae9bf-9d34-48a8-bb2e-c9fe26f624fa",
+  "lat": 11.1290362,
+  "lng": 106.6110617,
+  "address": "Gạch Ốp Lát Liên Tiến Đạt - Phường Bến Cát, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "4783cde3-9397-492f-b21c-f42941fef634",
+  "lat": 20.897492,
+  "lng": 105.85630287,
+  "address": "LK02-12 Khu đô thị Duyên Thái, Thường Tín, Hà Nội"
+ },
+ {
+  "id": "17dacb15-7f8e-4264-af95-acaa68c31631",
+  "lat": 20.96071878,
+  "lng": 105.77024975,
+  "address": "39 Khu Đô Thị Văn Phú, Phường Kiến Hưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "e51a74ae-3a75-4045-abaf-187e9d911bed",
+  "lat": 10.85550288,
+  "lng": 106.72991028,
+  "address": "83/1/6 Tam Bình - Phường Tam Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "479bcf3c-2380-4437-bff5-8a8dce3ec016",
+  "lat": 10.835292,
+  "lng": 106.782181,
+  "address": "150 Tăng Nhơn Phú Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "37cf5c82-20f2-4b27-b740-4c1dd5413dd4",
+  "lat": 10.8661875,
+  "lng": 106.81654688,
+  "address": "VR88+FJF Long Bình, Hồ Chí Minh"
+ },
+ {
+  "id": "e0ada99f-cad9-4400-baf9-f87393a5865a",
+  "lat": 21.03485949,
+  "lng": 105.89206159,
+  "address": "Sân Golf Long Biên Phường Long Biên, Thành phố Hà Nội"
+ },
+ {
+  "id": "b94dcd06-d576-4259-8628-ef05413a3127",
+  "lat": 21.02735792,
+  "lng": 105.82232651,
+  "address": "Chung Cư C7 Giảng Võ - Trần Huy Liệu, Phường Giảng Võ, Thành phố Hà Nội"
+ },
+ {
+  "id": "068c5241-bb46-4372-9e18-e4f6b5cdb3c3",
+  "lat": 16.0523125,
+  "lng": 108.2366875,
+  "address": "362P+WM - Phường Ngũ Hành Sơn,Thành phố Đà Nẵng"
+ },
+ {
+  "id": "5ea4f9c6-7312-4e85-af16-28ee37ef5061",
+  "lat": 10.98150952,
+  "lng": 106.60971321,
+  "address": "13/8 Sông Lu Xã Bình Mỹ, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "379384b2-2193-481b-b178-2d73b6380fe1",
+  "lat": 21.04115328,
+  "lng": 105.81160794,
+  "address": "Chung Cư Số 6 Đội Nhân Đội Nhân Phường Ngọc Hà, Thành Phố Hà Nội"
+ },
+ {
+  "id": "1328a674-3089-4d20-a2e3-4f04eda9fe75",
+  "lat": 10.7794125,
+  "lng": 106.79351563,
+  "address": "QQHV+QC6 - Phường Long Trường,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "0d462900-04f8-4c82-8e56-630737477e4e",
+  "lat": 10.77794528,
+  "lng": 106.75125805,
+  "address": "4 Bát Nàn Phường Cát Lái, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8104f31e-71a3-41f8-97ca-be12e3f60fc8",
+  "lat": 20.97596945,
+  "lng": 105.8825272,
+  "address": "117 Ngõ 2 Tây Trà, Phường Hoàng Mai, Hà Nội"
+ },
+ {
+  "id": "35dd5174-39ea-4770-aab0-940c8c0a74f5",
+  "lat": 10.9579625,
+  "lng": 106.74839063,
+  "address": "XP5X+59J - Phường Tân Đông Hiệp,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "34790e5c-f3aa-42ad-8de7-651667cb0894",
+  "lat": 10.96300474,
+  "lng": 106.6993572,
+  "address": "4/449 Thuận Giao 15 Phường Thuận Giao, Thành phố Thuận An, Tỉnh Bình Dương"
+ },
+ {
+  "id": "40c3405b-0d16-48b6-a676-543ecd44b4a5",
+  "lat": 21.0276555,
+  "lng": 105.7986985,
+  "address": "Đường Nguyễn Khang - Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "a0cad2a2-4266-439c-8bc7-87bd54836ab7",
+  "lat": 10.7079375,
+  "lng": 106.7325625,
+  "address": "PP5M+52 - Phường Phú Thuận,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "114cae46-6bf7-4b08-be6a-8e1528848d3d",
+  "lat": 10.86435202,
+  "lng": 106.81521041,
+  "address": "48/8a Đường 1a Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2779a3c7-c71a-43d8-b3f6-2665029e4c02",
+  "lat": 10.67638789,
+  "lng": 106.86857501,
+  "address": "2074 Đ. Hùng Vương, Vĩnh Thạnh, Nhơn Trạch, Đồng Nai"
+ },
+ {
+  "id": "c89ed7b9-195f-45b2-98f2-4dfada29ec78",
+  "lat": 20.98093005,
+  "lng": 105.88244228,
+  "address": "479 Lĩnh Nam - Phường Vĩnh Hưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "b05fb639-e844-413a-ae5b-c0726233a232",
+  "lat": 10.8035625,
+  "lng": 106.7483125,
+  "address": "RP3X+C8, Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "087e0932-12bf-47eb-a5ac-d938365dfac5",
+  "lat": 10.7780125,
+  "lng": 106.64839062,
+  "address": "QJHX+692 Phường Bảy Hiền, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8081db25-0c96-402b-9bfe-80474145b3cf",
+  "lat": 10.9048768,
+  "lng": 106.6400553,
+  "address": "Trà Sữa Nguyễn Hữu Tiến Xã Đông Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c2436c19-2bf4-423c-aa14-050403919991",
+  "lat": 10.80590761,
+  "lng": 106.68540771,
+  "address": "312 Nguyễn Thượng Hiền, Phường Đức Nhuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "3e99d92c-8da6-465d-8e0d-7f0e51701f7a",
+  "lat": 10.86542072,
+  "lng": 106.74175472,
+  "address": "528 Tô Ngọc Vân, Phường Tam Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bbc7e040-f700-4e21-9dd4-77d59d33739b",
+  "lat": 21.07435007,
+  "lng": 105.80082189,
+  "address": "Khu Đô Thị Ciputra Phường Phú Thượng, Thành Phố Hà Nội"
+ },
+ {
+  "id": "db72cf6a-35fa-4bd0-9446-1907c73bd661",
+  "lat": 10.92817851,
+  "lng": 106.75750916,
+  "address": "579/13 Lê Hồng Phong Phường Dĩ An, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "be23cbf6-a241-49d1-8050-8c298e94c1ed",
+  "lat": 21.06578904,
+  "lng": 105.67441624,
+  "address": "Xã Dương Hòa, Thành phố Hà Nội"
+ },
+ {
+  "id": "48ff3876-392a-4d25-b952-d76d243f3a19",
+  "lat": 20.97672,
+  "lng": 105.770762,
+  "address": "Trường Mầm Non Vạn Bảo - Vạn Phúc, Phường Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "7523cbe0-6417-4d32-8019-d79660fcf43e",
+  "lat": 10.63832227,
+  "lng": 106.45203307,
+  "address": "Số nhà 35 Ấp 6 Thạnh Đức, Bến Lức, Long An"
+ },
+ {
+  "id": "54fdbc1f-274c-430c-be47-22bf6d3e449a",
+  "lat": 20.9608397,
+  "lng": 105.8079006,
+  "address": "Khu Đô Thị Eden Rose - Phường Thanh Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "3b8c6192-e321-44d0-8fb3-8e29166473f4",
+  "lat": 10.84698627,
+  "lng": 106.67345828,
+  "address": "616/61/38 Lê Đức Thọ - Phường An Hội Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7cca2ebd-fd61-46c6-8659-b4d06fcf6863",
+  "lat": 20.8380071,
+  "lng": 106.0792996,
+  "address": "Cửa Hàng Xăng Dầu Mạnh Hùng - Xã Xuân Trúc, Tỉnh Hưng Yên"
+ },
+ {
+  "id": "4e4e45c7-3415-4c68-8cf5-c33c88ce1a04",
+  "lat": 20.9764375,
+  "lng": 105.76679688,
+  "address": "XQG8+HPF - Phường Hà Đông,Thành phố Hà Nội"
+ },
+ {
+  "id": "80a069e1-949a-4948-ab69-fc1f39ff861d",
+  "lat": 20.9107695,
+  "lng": 105.57280271,
+  "address": "Hồ Sinh Thái, Xã Ô Diên, Thành phố Hà Nội"
+ },
+ {
+  "id": "f909205c-0632-4028-ab42-0700277351f6",
+  "lat": 21.04820864,
+  "lng": 105.88130231,
+  "address": "Ngõ 544 Nguyễn Văn Cừ - Phường Bồ Đề, Thành phố Hà Nội"
+ },
+ {
+  "id": "0d19ef7b-ca31-454c-b342-164a8db96d92",
+  "lat": 21.03123331,
+  "lng": 105.77941902,
+  "address": "18 Phạm Hùng - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "a1cf87f1-6113-4307-b6f7-e8815171cb96",
+  "lat": 10.69754,
+  "lng": 106.64455,
+  "address": "Đường Khu Dân Cư Phong Phú 4 Xã Bình Hưng, Thành Phố Hồ Chí Minh"
+ },
+ {
+  "id": "c3ff8190-0d55-47ba-b3a5-fdb554e6097f",
+  "lat": 10.84469182,
+  "lng": 106.67469648,
+  "address": "24 Đường Số 5 Khu Phố 7, Phường 17, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a05ce9cd-32bd-4886-b390-30166aa6b62e",
+  "lat": 10.865345,
+  "lng": 106.604036,
+  "address": "107/3 Đồng Tâm, Xã Tân Xuân, Huyện Hóc Môn, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f86a09a9-2653-480c-965d-2fe178006508",
+  "lat": 10.64323199,
+  "lng": 106.48528436,
+  "address": "223 Nguyễn Hữu Thọ - Xã Bến Lức, Tỉnh Tây Ninh"
+ },
+ {
+  "id": "0e0bc234-38ba-4ffc-ad8f-2786894830bf",
+  "lat": 10.84506342,
+  "lng": 106.752804,
+  "address": "40/5 Đường Số 11, Phường Trường Thọ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bbd3d3de-fff5-4452-af8b-0912c3fa6eba",
+  "lat": 21.22115238,
+  "lng": 105.77013515,
+  "address": "43, Thôn Thạch Lỗi, Xã Thanh Xuân, Huyện Sóc Sơn, Thành phố Hà Nội"
+ },
+ {
+  "id": "e28fedcf-abe8-436f-97ce-46b8b4fb17b5",
+  "lat": 21.0353586,
+  "lng": 105.9062017,
+  "address": "Chung Cư A13 Huỳnh Văn Nghệ Phường Phúc Lợi, Thành Phố Hà Nội"
+ },
+ {
+  "id": "2d99c6a8-2a0c-4219-86a0-080e768d4eee",
+  "lat": 20.99268415,
+  "lng": 105.78691432,
+  "address": "Ecolife Tố Hữu, Phường Đại Mỗ, Thành phố Hà Nội"
+ },
+ {
+  "id": "f6f686b6-62b5-48c8-924b-5f03165a4231",
+  "lat": 10.85747905,
+  "lng": 106.69934877,
+  "address": "112 Võ Thị Liễu, Phường An Phú Đông,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2776f5df-a92e-413f-b8a6-686a50ca9eff",
+  "lat": 10.83794274,
+  "lng": 106.82993594,
+  "address": "Vinhomes Grand Park Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "16167e3d-68b6-45f2-a6b9-cf58c9d7aceb",
+  "lat": 16.04127171,
+  "lng": 108.16910672,
+  "address": "92 Nguyễn Thị Cận - Phường An Khê, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "f23f4ed8-4063-4271-9a42-38d43148077e",
+  "lat": 10.77681428,
+  "lng": 106.61233932,
+  "address": "206/1H Lê Văn Qưới Phường Bình Trị Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a8fd80ad-e359-4913-b69b-9ec4ea67116e",
+  "lat": 10.9069625,
+  "lng": 106.75342188,
+  "address": "WQ43+Q9M Phường Dĩ An, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "482ad66a-d5d1-47e7-a7b6-4a7b8e2a34f6",
+  "lat": 10.82661153,
+  "lng": 106.62541953,
+  "address": "Chung Cư Kim Tân Hải Trường Chinh, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f42b4c16-ff93-432f-bfcb-0674fb065912",
+  "lat": 10.8448592,
+  "lng": 106.8381757,
+  "address": "Tòa Nhà Vinhomes Grand Park S2.05 Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "28a071a1-07fc-4321-97aa-d573878929d9",
+  "lat": 21.0258125,
+  "lng": 105.7585625,
+  "address": "2QG5+8C - Phường Từ Liêm,Thành phố Hà Nội"
+ },
+ {
+  "id": "cb0afacf-43c4-4fc8-927d-5a7db81c7085",
+  "lat": 10.82773336,
+  "lng": 106.8180969,
+  "address": "37 Đường Số 5 - Phường Long Phước, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "00da5683-59d9-46ab-a45d-ef4b66380c8e",
+  "lat": 10.6946433,
+  "lng": 106.9558465,
+  "address": "Trà Sữa Maika Hùng Vương Ấp 4, Xã Long Thọ, Huyện Nhơn Trạch, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "a2654c83-9a50-4f40-beb9-3abc7c7a7c19",
+  "lat": 10.791482,
+  "lng": 107.021723,
+  "address": "Ấp 10, Xã Bình Sơn, Huyện Long Thành, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "f3f7b3c6-5edf-4e16-8be0-b7fc292b5bcd",
+  "lat": 21.037086,
+  "lng": 105.7919625,
+  "address": "33 Trần Quý Kiên - Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "aa9979e5-f48d-4ebf-a5a2-2bbd805320b4",
+  "lat": 10.76960676,
+  "lng": 106.66895474,
+  "address": "436B/10 Đường 3 Tháng 2, Phường Hòa Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "de820814-60ee-41e2-9d8e-76ffea2f5cf3",
+  "lat": 21.08936029,
+  "lng": 105.89530855,
+  "address": "Đình Du Nội Xã Đông Anh, Thành Phố Hà Nội"
+ },
+ {
+  "id": "470ad98d-e72b-4d56-9bbc-41ab4099013c",
+  "lat": 10.80392932,
+  "lng": 106.7216667,
+  "address": "261 Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6b3a670f-9007-457d-84da-04e93c7937e9",
+  "lat": 10.76152316,
+  "lng": 106.6325453,
+  "address": "36 Lũy Bán Bích, Phường Tân Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "379515db-b08f-44a3-b106-91321410b949",
+  "lat": 10.9799375,
+  "lng": 106.61342188,
+  "address": "XJH7+X9F - Xã Bình Mỹ,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "27e46398-912d-475d-b979-add194df98d6",
+  "lat": 20.976415,
+  "lng": 105.9207465,
+  "address": "Trà Chanh Bụi Phố - Khu Công Nghiệp Bát Tràng Xã Bát Tràng, Thành phố Hà Nội"
+ },
+ {
+  "id": "43fdf1dd-44b0-4ab1-98ee-792a8eb0b7ab",
+  "lat": 10.83906882,
+  "lng": 106.6806936,
+  "address": "20 Nguyễn Văn Lượng Phường An Nhơn, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d1bdb0b0-fc92-495c-95a1-ca8d3703542e",
+  "lat": 21.0392499,
+  "lng": 105.9079322,
+  "address": "17 Huỳnh Văn Nghệ, Phường Phúc Lợi, Thành phố Hà Nội"
+ },
+ {
+  "id": "f3852559-bd2a-40cf-b450-0a0a4985a502",
+  "lat": 20.98697829,
+  "lng": 105.80793506,
+  "address": "Ngõ 161 Nguyễn Xiển, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội"
+ },
+ {
+  "id": "5e9a8988-f0db-4d07-b740-b15945c44103",
+  "lat": 21.03048655,
+  "lng": 105.86122883,
+  "address": "46 Chương Dương Độ, Phường Hồng Hà, Thành phố Hà Nội"
+ },
+ {
+  "id": "f953d0f1-6e55-410a-b1f5-5153f2fb2f0d",
+  "lat": 10.97199579,
+  "lng": 106.33064665,
+  "address": "161 Ấp An Hiệp Xã An Ninh Đông, Huyện Đức Hòa, Tỉnh Long An"
+ },
+ {
+  "id": "6d7d6bda-e3b0-4afc-9d41-e82fb6b96f56",
+  "lat": 10.4132125,
+  "lng": 107.23229688,
+  "address": "C67J+7WM - Xã Long Hải,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c014aad4-8c5f-4fbd-97ea-9f226d51dc79",
+  "lat": 10.81913371,
+  "lng": 106.69200719,
+  "address": "32 Thiên Hộ Dương Phường Hạnh Thông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "af175a96-09d7-49bc-91af-48180eb19abc",
+  "lat": 20.97139578,
+  "lng": 105.79738105,
+  "address": "167 Yên Xá - Phường Thanh Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "93a5593d-c89d-492a-a26b-3cdd01af2164",
+  "lat": 10.70451602,
+  "lng": 106.73799883,
+  "address": "1735 Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, TP.HCM"
+ },
+ {
+  "id": "a15066ce-5bb6-494c-85bd-bc38e4767d05",
+  "lat": 10.85057962,
+  "lng": 106.67313097,
+  "address": "730/126 Lê Đức Thọ - Phường An Hội Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "cacf432b-e106-4273-a025-1f5a97181573",
+  "lat": 10.7340125,
+  "lng": 106.6394565,
+  "address": "Hẻm 28 Lương Văn Can, Phường Phú Định, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a6ecc70a-9e56-49d9-9596-f9e29f2e0d0c",
+  "lat": 21.11639072,
+  "lng": 105.65848035,
+  "address": "Chung Cư New Horizon City-Tòa Hh1 - Phường Vĩnh Tuy, Thành phố Hà Nội"
+ },
+ {
+  "id": "44ac317d-b069-4105-8724-36b75f68443f",
+  "lat": 16.05337943,
+  "lng": 108.24457703,
+  "address": "79 Lê Quang Đạo - Phường Ngũ Hành Sơn, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "268540f2-2def-4c3d-97b2-945d80eb3d68",
+  "lat": 10.74391613,
+  "lng": 106.61469139,
+  "address": "67 Vành Đai Trong - Phường An Lạc, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d5ae8b63-b18a-477a-bcfa-451ff7404801",
+  "lat": 10.85706884,
+  "lng": 106.64075935,
+  "address": "1779 Quốc Lộ 1A Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7110976a-8fc3-4e8a-baf0-af6bbd0deaab",
+  "lat": 10.85011925,
+  "lng": 106.68216325,
+  "address": "52 Đường Nguyễn Văn Dung, Phường 6, Quận Gò Vấp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "768f770a-b7ec-4732-91fa-e9b1becd243a",
+  "lat": 10.75369827,
+  "lng": 106.60239449,
+  "address": "34 Đường Số 51, Phường Tân Tạo, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8a05145e-c0ca-4f5e-b2a4-d3de4bb16964",
+  "lat": 10.810873,
+  "lng": 106.706158,
+  "address": "Đường Chu Văn An, Phường Bình Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "454ba767-f811-45a6-af56-bc3428f30ed0",
+  "lat": 10.7940375,
+  "lng": 106.58345313,
+  "address": "QHVM+J98 Xã Tân Vĩnh Lộc, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bef83e92-ae94-4fd5-8a64-a87d1fd38264",
+  "lat": 20.9841031,
+  "lng": 105.8079482,
+  "address": "286 Ngõ 286 Nguyễn Xiển, Phường Thanh Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "44c195da-2a6c-47d4-abe1-f6edc226a774",
+  "lat": 21.03204121,
+  "lng": 105.73462111,
+  "address": "Sân Bóng An Trai, Xã Sơn Đồng, Thành phố Hà Nội"
+ },
+ {
+  "id": "b72e9a2c-3699-4624-ba86-c9c6e976ef7f",
+  "lat": 16.10396319,
+  "lng": 108.25932985,
+  "address": "45 Vũ Ngọc Nhạ - Phường Sơn Trà, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "612bb585-2f72-4753-9619-3ae4464a6c39",
+  "lat": 10.83005578,
+  "lng": 106.68212461,
+  "address": "2 Bis Lê Đức Thọ, Phường Hạnh Thông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "323495a1-ce46-4597-8fed-3d1f6fbdb417",
+  "lat": 10.7490504,
+  "lng": 106.7241363,
+  "address": "Chung Cư Eco Green Saigon Phường Tân Thuận Tây, Quận 7, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "843fa813-50f3-4cd3-9bae-310aff27649a",
+  "lat": 21.04252537,
+  "lng": 105.93079786,
+  "address": "Số 68 ngõ 279 Phúc Lợi Hà Nội"
+ },
+ {
+  "id": "c4b0f940-0821-4a24-8c25-09649879c278",
+  "lat": 10.9187125,
+  "lng": 106.88107813,
+  "address": "WV9J+FCP Trấn Biên, Đồng Nai, Việt Nam"
+ },
+ {
+  "id": "20481439-71fc-406e-a5a6-4858fd404efb",
+  "lat": 10.8392625,
+  "lng": 106.46907813,
+  "address": "RFQ9+PJ4 - Xã Mỹ Hạnh,Tỉnh Tây Ninh"
+ },
+ {
+  "id": "b7f8111e-f148-4c3b-84d2-323e5a34ef6b",
+  "lat": 21.0282395,
+  "lng": 105.7688085,
+  "address": "480 Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "7e89b155-0e0a-40ef-80b4-16ff5bbb01b5",
+  "lat": 20.9759033,
+  "lng": 105.7623677,
+  "address": "Bất Động Sản Cland 105 Tố Hữu, Phường Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "d740e6a8-492f-4c5b-a53e-45013d20ad5f",
+  "lat": 10.80519696,
+  "lng": 106.65971504,
+  "address": "30 Phan Thúc Duyện, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6e2f86a5-b8a1-425f-a6cc-968ae24fe97d",
+  "lat": 10.75775884,
+  "lng": 106.71633899,
+  "address": "458 Nguyễn Tất Thành - Phường 18, Quận 4, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "80b7d7cf-0d72-4a37-be92-6e323d95cd13",
+  "lat": 10.87050878,
+  "lng": 106.67154646,
+  "address": "96/35 Đường Thạnh Xuân 22 Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bf0bcc69-36ae-455e-8bfc-3c3326e90cb6",
+  "lat": 10.89995548,
+  "lng": 106.76109624,
+  "address": "113 Đường Số 21 Khu Phố Nhị Đồng 1 Khu Trung Tâm Hành Chính Thành Phố Dĩ An, Phường Dĩ An, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "13108d35-77de-4f42-8cca-e263fbdce08e",
+  "lat": 10.8130262,
+  "lng": 106.6631203,
+  "address": "Nhà Vệ Sinh Ga Quốc Nội T1 - Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "470010c0-1af3-4858-a3c6-9d605a3eb9b3",
+  "lat": 10.89074793,
+  "lng": 106.68060552,
+  "address": "110/3 Tổ 38 Kp.3 Phường Thới An, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "140f6125-8e28-4c3e-9318-f18e0e0e9d8d",
+  "lat": 20.9927514,
+  "lng": 105.64355501,
+  "address": "Mỹ Phẩm Thảo Loan 32 Hoàng Xá Phố Đồng Hương, Xã Quốc Oai, Thành phố Hà Nội"
+ },
+ {
+  "id": "4e4e1e10-d483-440e-8175-7ffdef620d15",
+  "lat": 10.73935105,
+  "lng": 106.6789251,
+  "address": "37 Cao Lỗ, Phường 4, Quận 8, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "79be010e-a8b7-457b-a220-66881ba1606d",
+  "lat": 10.79349907,
+  "lng": 106.64499586,
+  "address": "151 Bàu Cát 1 - Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "3e443f98-8647-4a54-a586-b41a6ee0a230",
+  "lat": 10.97104192,
+  "lng": 107.09285224,
+  "address": "Ấp Thuận Trường, Xã Sông Thao, Huyện Trảng Bom, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "a83b8008-836a-498d-8336-05ea72ba2584",
+  "lat": 16.06749744,
+  "lng": 108.21395936,
+  "address": "354 Ông Ích Khiêm - Phường Thanh Khê, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "64567def-b597-42a6-91de-36988f6815f1",
+  "lat": 21.06525171,
+  "lng": 105.82744346,
+  "address": "59 Xuân Diệu - Phường Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "fb2512ce-ee31-4711-a309-22241cfcc03e",
+  "lat": 20.98098043,
+  "lng": 105.84975103,
+  "address": "218 Tân Mai, Phường Hoàng Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "f5fdb025-e416-4706-a871-db37e4007409",
+  "lat": 20.98935138,
+  "lng": 105.78842589,
+  "address": "169 Trung Văn, Nam Từ Liêm, Hà Nội"
+ },
+ {
+  "id": "f91119e8-b9ae-45f5-8d2c-23ffe60b35ad",
+  "lat": 10.7998875,
+  "lng": 106.79376562,
+  "address": "QQXV+XG2 - Phường Long Trường,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "85f4101b-5a7a-47db-94b8-652142aca71f",
+  "lat": 10.78452125,
+  "lng": 106.73086273,
+  "address": "Chung Cư Paris Hoàng Kim 31 Đường Số 1, Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "eb1f6646-055d-4527-a29e-3ad59fb30d93",
+  "lat": 10.8244914,
+  "lng": 106.68106665,
+  "address": "Bệnh Viện Quân Y 175 Nhà Công Vụ Số 2 - 2 Phạm Ngũ Lão, Phường Hạnh Thông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "dc5924b8-82d6-4bfb-a740-fae49216e58a",
+  "lat": 10.6448125,
+  "lng": 106.55092188,
+  "address": "JHV2+W9F - Xã Phước Lý,Tỉnh Tây Ninh"
+ },
+ {
+  "id": "ca8a5452-49ff-4006-a2dd-e840372bb771",
+  "lat": 10.86149173,
+  "lng": 106.72638574,
+  "address": "766/11/8 Quốc Lộ 13 Khu Phố 4, Phường Hiệp Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c117f30d-4bdd-401a-9722-2654a51288be",
+  "lat": 10.7697625,
+  "lng": 106.63607813,
+  "address": "QJ9P+WC4 - Phường Tân Phú,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "4f29365f-0100-4c57-ab84-4e46b80a3385",
+  "lat": 20.9819385,
+  "lng": 105.810506,
+  "address": "Đường Nguyễn Xiển - Phường Khương Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "07f69c87-991c-458b-910f-8d5861bb09f5",
+  "lat": 11.1032001,
+  "lng": 106.6203742,
+  "address": "295 KP4, Phường Thới Hoà, Bến Cát, Bình Dương"
+ },
+ {
+  "id": "f5fe478a-5ea3-4772-ae88-67de9ba03fc6",
+  "lat": 10.75292513,
+  "lng": 106.65245147,
+  "address": "1006 Đường Nguyễn Trãi, Phường 14, Quận 5, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d6a03963-b0ef-4fa3-a971-efad24a49ee6",
+  "lat": 10.87957254,
+  "lng": 106.61596533,
+  "address": "185/3A Trịnh Thị Miếng, Tổ 81, ấp Tam Đông, Thới Tam Thôn, Hóc Môn, TP.HCM"
+ },
+ {
+  "id": "54c4b13b-a498-480d-a1c1-51c9b1745bbd",
+  "lat": 20.97242435,
+  "lng": 105.77733748,
+  "address": "8 Quang Trung - Phường Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "0793f913-ef8d-4a22-a984-72b094c2ebcd",
+  "lat": 10.8289625,
+  "lng": 106.77401563,
+  "address": "RQHF+HJJ - Phường Phước Long,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "69831e60-d8e3-4f95-a548-df075399f3b8",
+  "lat": 10.79747881,
+  "lng": 106.68806468,
+  "address": "6 Hoa Đào, Phường 2, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c4ec71a6-04ee-4522-b6ce-023d213a2134",
+  "lat": 10.7725428,
+  "lng": 106.6290068,
+  "address": "38 Đường Chu Thiên, Phường Hiệp Tân, Quận Tân Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8b6b612a-dcb1-4b21-aac2-087fe9d23ccc",
+  "lat": 10.7194355,
+  "lng": 106.6209655,
+  "address": "18 đường 156 An Dương Vương, Phường Phú Định, Quận 8, TP.HCM"
+ },
+ {
+  "id": "f2bcb7ef-51aa-4124-9ac8-a679ee74582a",
+  "lat": 21.1252625,
+  "lng": 105.36248438,
+  "address": "49G6+4X5 - Xã Suối Hai,Thành phố Hà Nội"
+ },
+ {
+  "id": "7a022185-56ea-43af-83f9-94da458dc828",
+  "lat": 10.79040811,
+  "lng": 106.7301116,
+  "address": "Công Ty Cổ Phần Đông Tây Land - 192 Trần Não Phường An Khánh,Thành Phố Hồ Chí Minh"
+ },
+ {
+  "id": "18dbfb8a-1980-42ac-9d38-5c53ab83276a",
+  "lat": 10.9321125,
+  "lng": 106.86304688,
+  "address": "WVJ7+R6V Phường Trấn Biên, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "d066432f-52fa-4893-88ec-b3ae5098e6b9",
+  "lat": 10.77099831,
+  "lng": 106.7862522,
+  "address": "Chung Cư Citisoho Cát Lái Đường 33-CL, Phường Cát Lái, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "4e5611a8-9262-4064-9554-c11c45835450",
+  "lat": 10.81256882,
+  "lng": 106.70658641,
+  "address": "Cổng 3 Trường Tiểu Học Chu Văn An Số 8 Phường Bình Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "550c4edf-3421-4152-91ae-a7edc3019afd",
+  "lat": 21.05782934,
+  "lng": 105.83504865,
+  "address": "199 Nghi Tàm, Phường Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "67707725-bd48-4283-ba9e-4b89b2c1556d",
+  "lat": 21.1455819,
+  "lng": 105.54386795,
+  "address": "Đình Thôn Phương Độ, Xã Phúc Lộc, Thành phố Hà Nội"
+ },
+ {
+  "id": "0a923d22-e247-4b58-aae5-9566f3cd4e69",
+  "lat": 10.9004625,
+  "lng": 107.27907813,
+  "address": "W72H+5JP - Xã Xuân Định,Thành phố Đồng Nai"
+ },
+ {
+  "id": "85f051f4-449c-4425-85b6-6303416d8df4",
+  "lat": 10.84486598,
+  "lng": 106.74673577,
+  "address": "1164 Phạm Văn Đồng Phường Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "80062626-8255-474e-b82e-377012f26f87",
+  "lat": 11.00525279,
+  "lng": 106.6562467,
+  "address": "236 Nguyễn Đức Thuận Phường Phú Lợi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "46c49979-edc5-49e5-8b41-4d02b60442f1",
+  "lat": 21.02763629,
+  "lng": 105.81693594,
+  "address": "6 Phố Nguyễn Công Hoan, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "4b1b8d0b-76a0-4bd1-ba8d-a5407fcc1cb2",
+  "lat": 20.88523778,
+  "lng": 105.75200472,
+  "address": "339 Bình Minh Thanh Cao Thôn Thanh Thần, Xã Bình Minh, Thành phố Hà Nội"
+ },
+ {
+  "id": "b0201891-fc16-4723-89ea-4d0a901374bf",
+  "lat": 20.995789,
+  "lng": 105.7854425,
+  "address": "Nhà Văn Hóa Chung Cư Vov Mễ Trì - Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "933bac93-6ac5-451c-bce2-41cb491ff037",
+  "lat": 10.7836875,
+  "lng": 106.58142188,
+  "address": "QHMJ+FHF - Xã Tân Vĩnh Lộc,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2bc21583-be70-45bb-bc06-78c3f36fbfbc",
+  "lat": 10.8691821,
+  "lng": 106.7623063,
+  "address": "Chung Cư Opal Boulevard Kha Vạn Cân, Phường Dĩ An, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6fc2d3fc-6369-4d7c-954f-709e255b631e",
+  "lat": 20.95522488,
+  "lng": 105.84351509,
+  "address": "161 Ngọc Hồi, Hà Nội"
+ },
+ {
+  "id": "e996c9e0-c12a-445a-a502-00a997e333ec",
+  "lat": 10.79760599,
+  "lng": 106.78941353,
+  "address": "Legume Garden 37 Đường Số 1 Khu Dân Cư Khang An, Phường Long Trường, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e673ae6f-9b1a-41f0-86da-3cc5b53e4a67",
+  "lat": 21.03527891,
+  "lng": 105.76274641,
+  "address": "Ngõ 19 Hàm Nghi - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "5a6a3d1a-e2b5-4c41-b330-1efe1747d424",
+  "lat": 21.04007286,
+  "lng": 105.76141891,
+  "address": "55 Nguyễn Văn Giáp - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "6a20e74f-cb0d-4999-806c-81e13122e381",
+  "lat": 21.04214808,
+  "lng": 105.83032564,
+  "address": "14 Thụy Khuê Phường Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "903b838d-c22d-4ddb-9d1a-56391e92cc00",
+  "lat": 10.78450203,
+  "lng": 106.6457212,
+  "address": "189 Ni Sư Huỳnh Liên, Phường 10, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "329ad440-0062-4372-aa34-043971646808",
+  "lat": 10.8681125,
+  "lng": 106.80514063,
+  "address": "VR94+63R Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8a78605d-8a4b-4c4b-8273-92aa95967cbd",
+  "lat": 16.0524875,
+  "lng": 108.17160938,
+  "address": "352C+XJX - Phường An Khê,Thành phố Đà Nẵng"
+ },
+ {
+  "id": "fc72ae3d-7abb-4638-ab48-944933f7a685",
+  "lat": 10.74287462,
+  "lng": 106.63473653,
+  "address": "210 Nguyễn Văn Luông, Phường Bình Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a8371077-1edb-49d5-afec-59c12028b45d",
+  "lat": 10.80866111,
+  "lng": 106.67004783,
+  "address": "104 Phổ Quang, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "595ba472-2388-489d-9359-27b01f9ab411",
+  "lat": 21.07922526,
+  "lng": 105.87418933,
+  "address": "Chung Cư Eurowindow River Park 4 - Xã Đông Hội, Huyện Đông Anh, Thành phố Hà Nội"
+ },
+ {
+  "id": "4babec93-53c0-4edd-92d9-2f95dddbc07c",
+  "lat": 10.98137236,
+  "lng": 106.69164075,
+  "address": "79/15/2/15 hẻm 93 đường Nguyễn Thái Bình, Phú Hòa, TP Thủ Dầu Một, Bình Dương"
+ },
+ {
+  "id": "de891108-a91e-4b32-8013-1a17dc2a4533",
+  "lat": 21.0070875,
+  "lng": 105.49967187,
+  "address": "2F4X+RVM - Xã Hòa Lạc,Thành phố Hà Nội"
+ },
+ {
+  "id": "81c315e7-b67f-4ec7-b0a4-484b5b006b62",
+  "lat": 10.79135653,
+  "lng": 106.78165623,
+  "address": "731 Đường Đỗ Xuân Hợp - Phường Long Trường,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "55ac0876-cc09-4f90-92b5-95fa7f176c88",
+  "lat": 20.81592886,
+  "lng": 105.85243534,
+  "address": "Xóm Bến Ba Lăng Dũng Tiến Thường Tín Hà Nội Xóm Bến, Xã Thượng Phúc, Thành phố Hà Nội"
+ },
+ {
+  "id": "a191c535-e80c-4a7a-9f94-178c36f872e0",
+  "lat": 21.08905329,
+  "lng": 105.737753,
+  "address": "Công An Phường Thượng Cát, Phường Thượng Cát, Thành phố Hà Nội"
+ },
+ {
+  "id": "4e02021b-d94f-4ea0-a0b2-e869c272ea13",
+  "lat": 10.8095189,
+  "lng": 106.6946624,
+  "address": "69/24 Nơ Trang Long, P. Bình Lợi Trung, TP.HCM"
+ },
+ {
+  "id": "7e2efecf-6e14-4bc2-942c-dbea5d5f6820",
+  "lat": 10.84556758,
+  "lng": 106.8427451,
+  "address": "Tòa BS7, Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7296a05e-40a8-4410-bebc-30cca80b6f24",
+  "lat": 10.85175752,
+  "lng": 106.7977183,
+  "address": "Tòa Nhà MWG, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6238558a-6ba9-4642-8f6d-57df42bc9140",
+  "lat": 10.89521293,
+  "lng": 106.72141827,
+  "address": "20/3 Bình Hòa 20, Phường Bình Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "3a969bf8-5092-4670-97ca-291565365329",
+  "lat": 10.77595619,
+  "lng": 106.67201032,
+  "address": "16 Hoàng Dư Khương Phường Hòa Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ec4df7bb-e5c8-4379-99e1-9346726d474f",
+  "lat": 10.75299382,
+  "lng": 106.62752273,
+  "address": "80 Đường Số 10, Phường 13, Quận 6, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b4f94485-6faf-41d0-b16b-277f837d27bf",
+  "lat": 21.0485356,
+  "lng": 105.7770385,
+  "address": "1 Giao Lưu Khu Đô Thị Thành Phố Giao Lưu - Phường Phú Diễn, Thành phố Hà Nội"
+ },
+ {
+  "id": "d9725b20-a3ff-4eab-95b6-732d5d3d00f5",
+  "lat": 16.06602507,
+  "lng": 108.16391599,
+  "address": "55 Trần Triệu Luật - Phường Hòa Khánh, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "2a9d2ec3-8bdb-4509-9637-581573f185ce",
+  "lat": 21.05288716,
+  "lng": 105.83966312,
+  "address": "102 Ngõ 57 An Dương Phường Yên Phụ, Quận Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "2bc35243-ee3b-4c04-98a9-0acfc821ba87",
+  "lat": 20.9800579,
+  "lng": 105.7719107,
+  "address": "Stv Building 10E Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "b319a7b4-dcca-4710-bca4-1d7d6672f8da",
+  "lat": 10.9239375,
+  "lng": 106.7145625,
+  "address": "WPF7+HR - Phường Thuận Giao,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "0eeaffe5-d40b-4039-93fa-d63b6eb9cfa1",
+  "lat": 10.80132802,
+  "lng": 106.61851966,
+  "address": "30 Tân Thắng, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "538c1a3c-3eb4-4f31-812a-67d473f9a535",
+  "lat": 10.84095209,
+  "lng": 106.71045474,
+  "address": "15 Đường Số 13 Khu Dân Cư Vạn Phúc, Phường Hiệp Bình Phước, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c6fa6d57-f422-4c4c-ae81-8611412e1a6f",
+  "lat": 10.76013074,
+  "lng": 106.59151337,
+  "address": "1123 Lê Đức Anh, Phường Tân Tạo, Quận Bình Tân, TP.HCM"
+ },
+ {
+  "id": "88ad6e09-fd3b-4d75-8473-2b1e55ffcd42",
+  "lat": 10.72897657,
+  "lng": 106.62410881,
+  "address": "1648 Võ Văn Kiệt, Phường Bình Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "46bbc330-bca1-459a-ad9e-a297df163911",
+  "lat": 10.8953373,
+  "lng": 106.7849413,
+  "address": "122 Nguyễn Hữu Cảnh, phường Đông Hòa, Dĩ An, Bình Dương"
+ },
+ {
+  "id": "9bc45f66-d996-4ef8-bfcc-8f52076040c7",
+  "lat": 21.04766796,
+  "lng": 105.84201023,
+  "address": "Quận Ba Đình - Quận Ba Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "152b1347-f1f4-4578-8651-4c2e243cdb48",
+  "lat": 21.02259976,
+  "lng": 105.77042047,
+  "address": "Cao Đẳng Công Nghệ Bách Khoa - Phường Mỹ Đình 1, Quận Nam Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "d3d05944-2579-4c8a-b514-99ca02ab96d5",
+  "lat": 21.18303451,
+  "lng": 105.80655101,
+  "address": "2 Làng Thụy Hà Xã Phúc Thịnh, Thành phố Hà Nội"
+ },
+ {
+  "id": "ad3c0f4d-1d82-4f65-a209-f265067e8900",
+  "lat": 10.72742119,
+  "lng": 106.64595914,
+  "address": "34 Đường Số 15 Ấp 5 Khu Dân Cư Phong Phú, Xã Bình Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "adcfbe5c-e4bb-47e9-aaa2-b4a575fb3e6e",
+  "lat": 20.99055988,
+  "lng": 105.95304087,
+  "address": "Căn HA09-SP3A.05, Đường Hải Âu 3A, Vinhomes Ocean Park, Gia Lâm, Hà Nội"
+ },
+ {
+  "id": "136c4a9c-cee6-41ab-964d-0ea9919f9ff2",
+  "lat": 10.885363,
+  "lng": 106.606354,
+  "address": "156/1 Ấp Tam Đông 1 - Xã Đông Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "20bcf513-b9ba-453e-b6c1-f6d9c537accf",
+  "lat": 21.0523483,
+  "lng": 105.8088836,
+  "address": "175 Đường Lạc Long Quân, Phường Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "1e170fe1-a084-4135-b8d5-021b40d78639",
+  "lat": 10.78927127,
+  "lng": 106.69733863,
+  "address": "2 Nguyễn Thành Ý - Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "19f2fd3a-e31a-4d75-b8a0-9687e125b948",
+  "lat": 21.02280147,
+  "lng": 105.77861292,
+  "address": "52 Phạm Hùng Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "648c2d2e-194c-4877-9b4f-453fb145af8c",
+  "lat": 10.79617288,
+  "lng": 106.65649512,
+  "address": "390 Hoàng Văn Thụ, Phường Tân Sơn Nhì, TP.HCM"
+ },
+ {
+  "id": "3df3cc5a-3274-48e4-9e51-7a7ab245a13f",
+  "lat": 21.0241368,
+  "lng": 105.7903905,
+  "address": "Chung Cư Golden Park Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "2115db5e-bc80-432b-807f-aa57bdd4cd12",
+  "lat": 10.6963063,
+  "lng": 106.73413089,
+  "address": "1806/125 Huỳnh Tấn Phát Xã Nhà Bè, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "899fb81b-3523-4120-9dbd-a84a19d496af",
+  "lat": 10.76915959,
+  "lng": 106.66831687,
+  "address": "436A/10 Đường 3 Tháng 2, Phường Hòa Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "0e25f639-1ec5-4101-ad54-46bb8ab1034c",
+  "lat": 10.9252375,
+  "lng": 106.71179688,
+  "address": "WPG6+3PV - Phường Lái Thiêu,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b447ff44-970d-4e07-8012-6a631da04b3f",
+  "lat": 21.01954263,
+  "lng": 105.78435902,
+  "address": "22 Dương Đình Nghệ - Phường Yên Hòa, Quận Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "98b6d9ea-87ef-419e-89eb-7dcce2b2b485",
+  "lat": 10.8860625,
+  "lng": 106.6906875,
+  "address": "VMPR+C7, Phường Lái Thiêu, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "171ce0ca-ea96-4bb5-9395-f614b1ce29f2",
+  "lat": 21.01372428,
+  "lng": 105.80335473,
+  "address": "27 Trần Duy Hưng - Phường Yên Hòa, Thành phố Hà Nội"
+ },
+ {
+  "id": "b9784ded-8181-453b-8182-c082a209831c",
+  "lat": 20.98755808,
+  "lng": 105.83630295,
+  "address": "Phố Nguyễn Lân - Phường Phương Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "6cfbb74c-b956-4c81-bedf-19e940c51337",
+  "lat": 10.74741,
+  "lng": 106.7259282,
+  "address": "Bãi xe Quốc Việt, khu chung cư Eco Green, Hẻm 376 Huỳnh Tấn Phát, Tân Thuận, TP.HCM"
+ },
+ {
+  "id": "8a639e72-5807-4007-8b9c-4ea73877d630",
+  "lat": 21.2887275,
+  "lng": 105.71708,
+  "address": "Đường Nguyễn Văn Linh - Phường Xuân Hòa, Tỉnh Phú Thọ"
+ },
+ {
+  "id": "08399dd3-4d7c-4dd5-b195-7f3912e4a67d",
+  "lat": 11.0625375,
+  "lng": 106.69517188,
+  "address": "3M7W+237, Phường Bình Dương, TP. Thủ Dầu Một, Bình Dương (GPS: 11.0625742, 106.6951233)"
+ },
+ {
+  "id": "2b625912-92b0-4613-a033-1ccbe3195f4e",
+  "lat": 21.064397,
+  "lng": 105.7986064,
+  "address": "N03 T3 Ngoại Giao Đoàn, Phường Xuân Tảo, Quận Bắc Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "7f03a592-cb06-4266-9007-67de9c4ae24b",
+  "lat": 10.7769192,
+  "lng": 106.7575179,
+  "address": "Chung Cư Vista Verde, Phường Cát Lái, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "03828024-4ac4-4de9-ad8a-311f499c7701",
+  "lat": 10.7603375,
+  "lng": 106.59610938,
+  "address": "QH6W+4CQ Tân Tạo, Hồ Chí Minh"
+ },
+ {
+  "id": "0fb17ea2-67f0-48d7-8459-8ea89e92ac93",
+  "lat": 10.9585948,
+  "lng": 106.8341406,
+  "address": "CGV Biên Hòa - Phường Tân Mai, Thành phố Biên Hòa, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "bdbd0cea-5799-46b4-8d88-55e46cc47e70",
+  "lat": 21.01239816,
+  "lng": 105.77516001,
+  "address": "97 Võ Mễ Trì, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội"
+ },
+ {
+  "id": "66a3f905-f992-4ed4-9f8c-344f639bae98",
+  "lat": 20.97107978,
+  "lng": 105.84631962,
+  "address": "Sảnh Đón Trả Khách Tòa N2 Tòa N3-Chung Cư Khu Đô Thị Đồng Tàu Phường Hoàng Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "1a6f3aa5-b7e9-4c74-bc84-7a5008b87135",
+  "lat": 10.71683237,
+  "lng": 106.68208182,
+  "address": "86 Đường Số 6 Ấp 5 Khu Dân Cư Đại Phúc Xã Bình Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "cf43c8d4-c77c-4a04-8223-4598d2b32965",
+  "lat": 10.6170625,
+  "lng": 106.7525625,
+  "address": "JQ83+R2, Xã Hiệp Phước, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "26e4363a-6f75-49b2-b49a-9a8b0f7131a7",
+  "lat": 21.02984936,
+  "lng": 105.76299733,
+  "address": "20 Trần Hữu Dực - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "cfedad40-7cc8-43fc-8c49-bdaabb5d3a9c",
+  "lat": 21.01345267,
+  "lng": 105.83335773,
+  "address": "145 Nam Đồng, P. Kim Liên, Hà Nội"
+ },
+ {
+  "id": "5afcef4e-c414-48b9-99b2-389678fd3821",
+  "lat": 21.0209172,
+  "lng": 105.7164327,
+  "address": "Khu Công Nghiệp Lại Yên - Xã Lại Yên, Huyện Hoài Đức, Thành phố Hà Nội"
+ },
+ {
+  "id": "c42e91b8-c36a-4964-b587-1c3285b4b546",
+  "lat": 10.94833103,
+  "lng": 106.72910449,
+  "address": "143/5 Đường 22 Tháng 12 Phường An Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "9c7e5506-5300-4551-ad71-f1331e4e270d",
+  "lat": 21.0309375,
+  "lng": 105.8874375,
+  "address": "7PH72VJP+9X - Phường Long Biên,Thành phố Hà Nội"
+ },
+ {
+  "id": "a19d957c-2f75-4e32-9040-2c2f4e277926",
+  "lat": 10.9886125,
+  "lng": 106.57439063,
+  "address": "XHQF+CQR - Xã Phú Hòa Đông,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e6125829-2129-4029-9175-49bf95bd7435",
+  "lat": 10.79560095,
+  "lng": 106.70991393,
+  "address": "153 Xô Viết Nghệ Tĩnh - Phường Gia Định, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bef487dc-06fe-495c-b982-675b8108abd7",
+  "lat": 10.7181875,
+  "lng": 106.6073125,
+  "address": "PJ94+7W - Phường An Lạc,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "73182cc1-fe36-474c-874d-217a6a80e08d",
+  "lat": 21.00275216,
+  "lng": 105.7939662,
+  "address": "289 Khuất Duy Tiến, Phường Đại Mỗ, Thành phố Hà Nội"
+ },
+ {
+  "id": "0a73e5a7-ea31-4380-b2b3-4a37fd254b21",
+  "lat": 20.98965406,
+  "lng": 105.79903038,
+  "address": "Phường Thanh Xuân Bắc, Quận Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "3b0c6da5-6bc1-4f89-ad37-5f36c8a69bfa",
+  "lat": 10.71057185,
+  "lng": 106.64281157,
+  "address": "Sảnh H Chung Cư Conic Skyway Residense-Block H Số 2 Xã Bình Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "4341489a-0093-4609-9bae-76a36904ee6f",
+  "lat": 21.12777373,
+  "lng": 105.77722283,
+  "address": "8 Đa Lộc, Xã Thiên Lộc, Thành phố Hà Nội"
+ },
+ {
+  "id": "f9de95dd-bcd0-4f53-bee0-17ae479b8611",
+  "lat": 10.7413205,
+  "lng": 106.65394209,
+  "address": "964 Nguyễn Duy, Quận 8, TP.HCM"
+ },
+ {
+  "id": "0d448512-319f-4a8e-bae8-f62cae72040b",
+  "lat": 10.79898744,
+  "lng": 106.64481079,
+  "address": "2/18 Bình Giã, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "63ba0a80-f4ba-40bc-82e9-e8d6993195aa",
+  "lat": 10.85553385,
+  "lng": 106.75497158,
+  "address": "763/14 Kha Vạn Cân - Phường Linh Tây, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "03ca34cd-1b41-4fc7-bb8c-8f234f13620c",
+  "lat": 10.874655,
+  "lng": 106.630734,
+  "address": "4 Đường N1 Khu Dân Cư Hiệp Thành, Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "127ed67e-49e4-4ec7-9b77-f173b8d6f2f4",
+  "lat": 16.07601422,
+  "lng": 108.21323435,
+  "address": "33 Kiệt 33 Ông Ích Khiêm Phường Hải Châu, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "2847e95f-73f3-43be-bf58-e6adc639370c",
+  "lat": 21.14673069,
+  "lng": 105.74180429,
+  "address": "Trung Tâm Hành Chính Công Xã Mê Linh, Xã Tráng Việt, Huyện Mê Linh, Thành phố Hà Nội"
+ },
+ {
+  "id": "d1136583-8c3f-4179-af62-b724c62201f9",
+  "lat": 10.89519547,
+  "lng": 106.58430071,
+  "address": "139 Đường Lê Lợi, Xã Hóc Môn,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bbbb454d-8032-49e3-b972-98ad4aad1d1e",
+  "lat": 21.15464389,
+  "lng": 105.81073618,
+  "address": "233 Quốc Lộ 23B Xóm Nhì - Xã Phúc Thịnh, Thành phố Hà Nội"
+ },
+ {
+  "id": "fccb9a66-b3db-4e76-bf1a-d88bd00e5075",
+  "lat": 21.01372428,
+  "lng": 105.80335473,
+  "address": "27 Trần Duy Hưng, Phường Yên Hòa, Thành phố Hà Nội"
+ },
+ {
+  "id": "2e07f398-3c3f-48b4-8171-4dc5dafe3a55",
+  "lat": 21.00921153,
+  "lng": 105.79317863,
+  "address": "Tòa CT4 Vimeco, phố Tú Mỡ, Trung Hòa, Cầu Giấy, Hà Nội"
+ },
+ {
+  "id": "8ee8932a-a7d3-4bc1-959f-2adce38f3e75",
+  "lat": 21.0262546,
+  "lng": 105.8110074,
+  "address": "Tòa Nhà Biển Bắc Phường Giảng Võ, Thành phố Hà Nội"
+ },
+ {
+  "id": "ca64ef5b-a121-498a-b384-23cf34b98666",
+  "lat": 10.97070711,
+  "lng": 106.66604097,
+  "address": "Chung Cư C-Skyview-Tòa B Phường Thủ Dầu Một, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b4f11736-2ee4-48cd-a768-6acdaad3c9bb",
+  "lat": 11.07353145,
+  "lng": 106.68390705,
+  "address": "ACB Chi Nhánh Vsip 2 Phường Bình Dương, Thành Phố Hồ Chí Minh"
+ },
+ {
+  "id": "0ceff824-e30c-4c35-8e7e-8695bc7ab8fd",
+  "lat": 10.9884125,
+  "lng": 106.85535938,
+  "address": "XVQ4+949 - Phường Trảng Dài,Thành phố Đồng Nai"
+ },
+ {
+  "id": "b4e2ebb1-ea7d-498b-8f85-7b0da13ff0fe",
+  "lat": 10.77004488,
+  "lng": 106.6165762,
+  "address": "75 Liên Khu 2-5, Bình Trị Đông, Bình Tân, HCM"
+ },
+ {
+  "id": "6cbf2dd5-2fc2-4168-9933-69c14c412adc",
+  "lat": 10.78134904,
+  "lng": 106.68155156,
+  "address": "Bệnh viện mắt quốc tế DND - Sài Gòn, Phường 9, Quận 3, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b1a07ec1-532a-443b-bfda-b8298b029b50",
+  "lat": 10.86608452,
+  "lng": 106.7500777,
+  "address": "163/26 Nguyễn Đình Thi, Kp. Bình đường 3, Dĩ An, Bình Dương"
+ },
+ {
+  "id": "94de6ae3-eb06-45d1-bf39-31e4292b19f9",
+  "lat": 11.0277625,
+  "lng": 106.75545313,
+  "address": "2QH4+454 - Phường Tân Hiệp,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7977a4af-d04c-4be3-97f9-bb79b467553d",
+  "lat": 10.9387444,
+  "lng": 106.5536511,
+  "address": "57 Nguyễn Thị Lăng, ấp Chợ, Củ Chi, Hồ Chí Minh"
+ },
+ {
+  "id": "f883799a-b828-4538-a3aa-95e02cb716c1",
+  "lat": 10.94068423,
+  "lng": 106.82955268,
+  "address": "123 Nguyễn Thành Đồng, Phường Thống Nhất, Thành phố Biên Hòa, Tỉnh Đồng Nai"
+ },
+ {
+  "id": "a0b5169c-fd83-48e7-a95a-4c026b5a43a4",
+  "lat": 21.04419613,
+  "lng": 105.76607836,
+  "address": "247 Hoàng Công Chất Phường Phú Diễn, Thành phố Hà Nội"
+ },
+ {
+  "id": "6442be32-0f15-4642-803b-03317b8ab9eb",
+  "lat": 10.89383496,
+  "lng": 106.78603176,
+  "address": "46 Nguyễn Hữu Cảnh Khu Phố Đông A, Phường Đông Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2ad69950-65bf-4d86-a9f3-999e155fe399",
+  "lat": 20.98304357,
+  "lng": 105.80920791,
+  "address": "288 Nguyễn Xiển Phường Thanh Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "cdb93778-ceef-4ea8-9904-cb2c05de7b39",
+  "lat": 20.95676903,
+  "lng": 105.84269677,
+  "address": "124 Ngọc Hồi - Phường Hoàng Liệt, Thành phố Hà Nội"
+ },
+ {
+  "id": "9d547f36-67d0-4ca9-928e-fd683eb5c3ae",
+  "lat": 10.81138364,
+  "lng": 106.71402144,
+  "address": "643/24/1 Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c487dd89-8d0c-4801-a876-49382689c050",
+  "lat": 10.82690656,
+  "lng": 106.68901028,
+  "address": "Vincom Plaza Phan Văn Trị 12 Phan Văn Trị, Phường Hạnh Thông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a529ab75-adad-4724-8065-3967199376cc",
+  "lat": 21.1721913,
+  "lng": 105.78325727,
+  "address": "51 Ngõ Vườn Cây, Xã Nam Hồng, Huyện Đông Anh, Thành phố Hà Nội"
+ },
+ {
+  "id": "ba971fbe-210a-401a-b3a9-11ab0e005692",
+  "lat": 11.03597764,
+  "lng": 106.49206621,
+  "address": "33 Đường Số 530 Xã Nhuận Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "49e894d7-1129-4a80-8e86-8cccc97564cc",
+  "lat": 10.78144168,
+  "lng": 106.96679525,
+  "address": "Tổ 5 Ấp Bưng Cơ, Phường Long Thành, Thành phố Đồng Nai"
+ },
+ {
+  "id": "8a98f174-fbb8-43da-9515-cde2c43c9771",
+  "lat": 11.00217102,
+  "lng": 106.67140022,
+  "address": "39 Đường Số 1 Khu Dân Cư Hiệp Thành 3, Phường Phú Lợi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8cbbfd98-ce42-47d0-a29e-e5cc2018bf7d",
+  "lat": 10.80171974,
+  "lng": 106.79311373,
+  "address": "454 Võ Chí Công - Phường Phú Hữu, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "44ff08e0-c97b-4ae0-9442-9f8fa0298905",
+  "lat": 10.79213135,
+  "lng": 106.76099479,
+  "address": "Chung Cư Palm Heights Phường An Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d0608c48-3a52-455f-9c11-5835ea8644cb",
+  "lat": 21.00523363,
+  "lng": 105.79808402,
+  "address": "Khu Chung Cư Mandarin Garden Hoàng Minh Giám, Phường Trung Hòa, Quận Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "ff2d5405-051a-4aca-a0a1-f5608c9a604a",
+  "lat": 10.7147177,
+  "lng": 106.66517311,
+  "address": "Tòa Mp6 Chung Cư Mizuki Park Xã Bình Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2e6e08d2-00b2-4856-8a74-4569e588c8c4",
+  "lat": 20.98260537,
+  "lng": 105.76640546,
+  "address": "Tiểu khu đô thị mới Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "e0b2dab1-afb7-4998-82f0-55d864ea4bf8",
+  "lat": 10.8691375,
+  "lng": 106.60623438,
+  "address": "VJ94+MF5 - Xã Bà Điểm,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "3a736340-4e58-4e38-952f-f8b3bfb88dda",
+  "lat": 10.9563244,
+  "lng": 106.82323459,
+  "address": "1724 Nguyễn Ái Quốc, p. Trấn Biên, TP Đồng Nai"
+ },
+ {
+  "id": "a76b7cec-8b1d-489e-873b-b4358dd4bdcc",
+  "lat": 21.0279718,
+  "lng": 105.8042932,
+  "address": "Toà Nhà Hongkong Tower Phường Láng, Thành phố Hà Nội"
+ },
+ {
+  "id": "3f7eb060-5716-41bd-be3f-cb324b4e61b6",
+  "lat": 10.77937791,
+  "lng": 106.746152,
+  "address": "Tòa Bahamas Khu Căn Hộ Cao Cấp Đảo Kim Cương, Phường Bình Trưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "0b514df5-bd72-4589-892b-2f7457999e6c",
+  "lat": 10.78683543,
+  "lng": 106.72800212,
+  "address": "18/4 Đường Số 35 - Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c1b320f9-5a61-4112-bb4e-706079f811b3",
+  "lat": 21.1394125,
+  "lng": 105.82726563,
+  "address": "4RQG+QW6 - Xã Phúc Thịnh,Thành phố Hà Nội"
+ },
+ {
+  "id": "658b9a15-126b-4ab6-ae06-7ae42201b515",
+  "lat": 10.78105248,
+  "lng": 106.73687532,
+  "address": "17 Mai Chí Thọ, Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "48862850-6f01-478d-baac-175fc9cf5db4",
+  "lat": 21.06830914,
+  "lng": 105.76174429,
+  "address": "6 Khu B Khu Tập Thể Đại Học Mỏ Địa Chất - Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "09e4c430-a09e-489c-9246-be42d14afd2a",
+  "lat": 10.7636721,
+  "lng": 106.66390413,
+  "address": "341 Nhật Tảo Phường Diên Hồng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "57afb585-9ccc-4c0b-8438-8998f3a95284",
+  "lat": 10.85116219,
+  "lng": 106.79841235,
+  "address": "Lô T2-4 Đường D1 - Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ac5c8aaa-33da-4ff5-81dc-6280498d3d84",
+  "lat": 21.00011325,
+  "lng": 105.80244444,
+  "address": "104 Phố Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "002cadc4-1b87-48f4-9e87-dd0c5defa72a",
+  "lat": 11.1376895,
+  "lng": 106.843363,
+  "address": "Nhà Ăn Nông Trường Cao Su Nhà Nai Xã Bắc Tân Uyên, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8eabcffb-b0d0-4cdb-83af-ad16be219037",
+  "lat": 10.80726652,
+  "lng": 106.8150652,
+  "address": "730/15 Lã Xuân Oai Phường Long Trường, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "41b174a6-adc1-4951-8fc8-7c0345ba74bb",
+  "lat": 10.80380181,
+  "lng": 106.61693662,
+  "address": "Chung Cư Celadon City - Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "9380dea6-212b-4608-84e2-4cdf888c05c9",
+  "lat": 20.97083697,
+  "lng": 105.76700628,
+  "address": "Học Viện Chính Trị Quân Sự - Phường Quang Trung, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "a58a6889-e73e-4237-8977-3f2b0050a563",
+  "lat": 10.75368199,
+  "lng": 106.68025108,
+  "address": "341 Cao Đạt, Phường Chợ Quán, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6f68b409-df13-4125-97d9-31d96f74333d",
+  "lat": 10.7053203,
+  "lng": 106.7371987,
+  "address": "Belleza Apartment, Phạm Hữu Lầu, Phường Phú Thuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "076cf4a0-9ab0-4f32-b2ae-9bf853603959",
+  "lat": 10.971827,
+  "lng": 106.7559945,
+  "address": "Đường Huyện 401, Phường Thái Hòa, Thành phố Tân Uyên, Tỉnh Bình Dương"
+ },
+ {
+  "id": "b76169f0-6575-4765-a60e-857949df8bb9",
+  "lat": 21.1687973,
+  "lng": 105.7861816,
+  "address": "Dứa Coffee & Tea Ngách 2 Ngõ 7 Ngõ 2, Xã Phúc Thịnh, Thành phố Hà Nội"
+ },
+ {
+  "id": "6cb2cc00-35ce-4583-a240-b223ec249d41",
+  "lat": 10.769057,
+  "lng": 106.7249915,
+  "address": "Đường Nguyễn Cơ Thạch - Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "54fe3e51-60b1-414f-b23a-d8d4fb98ea8d",
+  "lat": 20.9132625,
+  "lng": 105.65760937,
+  "address": "WM75+825 - Xã Phú Nghĩa,Thành phố Hà Nội"
+ },
+ {
+  "id": "eac52527-fdeb-484b-817b-98a5f6fc8587",
+  "lat": 10.88404954,
+  "lng": 106.62887087,
+  "address": "506/35a Nguyễn Ảnh Thủ Phường Tân Thới Hiệp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f97c82b0-8044-4874-a56f-4efc7333db9b",
+  "lat": 10.8095373,
+  "lng": 106.7912609,
+  "address": "Khu Dân Cư River Park Phường Phước Long, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "95c6101b-57b1-4d2f-9a40-0592e02a0a72",
+  "lat": 10.7102677,
+  "lng": 106.6867193,
+  "address": "Xưởng Gỗ Thiên Phúc 3 213 Nguyễn Văn Ràng, Xã Phước Lộc, Huyện Nhà Bè, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f03782b2-1dba-4793-9a84-3c4a9bd64aab",
+  "lat": 21.0648375,
+  "lng": 105.74567188,
+  "address": "3P7W+W7M - Phường Tây Tựu,Thành phố Hà Nội"
+ },
+ {
+  "id": "f2fa8ea8-e3b5-45ec-830e-a0353498f371",
+  "lat": 10.79374787,
+  "lng": 106.7224979,
+  "address": "Vinhomes Central Park - Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e1435804-0a5b-460f-94ee-98908a4e4778",
+  "lat": 21.01811,
+  "lng": 105.85893,
+  "address": "Căn Hộ Royal City Hà Nội - Phường Hai Bà Trưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "2f60e435-0e95-4ba9-8e66-83d4ce8762bb",
+  "lat": 21.03877078,
+  "lng": 105.74327978,
+  "address": "Cổng Bệnh viện Phenikaa, đường Cụ Trịnh Văn Bô, Xuân Phương, Hà Nội"
+ },
+ {
+  "id": "9a946f81-717d-495b-be99-62245d55b880",
+  "lat": 10.851256,
+  "lng": 106.696368,
+  "address": "11b Đường D9 Khu Dân Cư Senturia Vườn Lài, Phường An Phú Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "dcdd3cf0-4428-48a6-8cce-80ab82fabbf7",
+  "lat": 10.73752605,
+  "lng": 106.72831073,
+  "address": "Q7 Saigon Riverside Complex, Phường Tân Mỹ, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ddffa204-eeee-4aac-8495-291bf26405a7",
+  "lat": 10.94929001,
+  "lng": 106.7779157,
+  "address": "Hẻm 183 Phạm Văn Diêu, Biên Hòa, Đồng Nai"
+ },
+ {
+  "id": "718f1163-69e2-43df-8387-191036da0aaf",
+  "lat": 20.99326215,
+  "lng": 105.76348043,
+  "address": "3 Ngách 3 Ngõ 178 Đại Mỗ Phường Đại Mỗ, Thành phố Hà Nội"
+ },
+ {
+  "id": "69ee04b3-2f11-4e1c-bd84-e4cc9bac77c1",
+  "lat": 10.83396823,
+  "lng": 106.63474189,
+  "address": "184 Phan Huy Ích - Phường An Hội Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a9e1080b-54c3-42bb-b1d7-1017f5936859",
+  "lat": 10.85095694,
+  "lng": 106.69339482,
+  "address": "115 Vườn Lài Phường An Phú Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8f3db198-6931-4be8-aefc-49c3be21e933",
+  "lat": 21.0155452,
+  "lng": 105.782847,
+  "address": "23 Phạm Hùng Tòa Nhà Tasco Đường Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "595f812e-1ecb-4ed4-b90a-f6ca49edef36",
+  "lat": 20.99102167,
+  "lng": 105.86402863,
+  "address": "13 Lĩnh Nam - Phường Vĩnh Tuy, Thành phố Hà Nội"
+ },
+ {
+  "id": "70cae7a9-90ea-403a-b4f1-bbd64742e7fe",
+  "lat": 21.02835451,
+  "lng": 105.85379875,
+  "address": "Hà Nội"
+ },
+ {
+  "id": "169e1d1b-66e7-4058-908a-d51a93ed7370",
+  "lat": 21.00158777,
+  "lng": 105.71818396,
+  "address": "UBND X.An Khánh - Xã An Khánh, Thành phố Hà Nội"
+ },
+ {
+  "id": "23a1fcab-9bd8-438b-9aa6-35671abb68a6",
+  "lat": 20.9690463,
+  "lng": 105.7557097,
+  "address": "Bể Bơi La Khê - Phường La Khê, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "c7b3880f-3ae2-485c-b98d-c82ce85a795c",
+  "lat": 10.96609078,
+  "lng": 106.90782667,
+  "address": "247/67/2 Quốc Lộ 1 Khu Phố 6, Phường Hố Nai, Thành phố Đồng Nai"
+ },
+ {
+  "id": "606c3211-296e-4828-8c2e-14572874b8c7",
+  "lat": 20.99777739,
+  "lng": 105.80229815,
+  "address": "Chung Cư Imperia Garden-Tòa D - Phường Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "276f0ce3-a850-4c2f-b66c-f5c5a901f19f",
+  "lat": 21.06951455,
+  "lng": 105.91034585,
+  "address": "Tòa Án Nhân Dân Quận Long Biên, Phường Giang Biên, Quận Long Biên, Thành phố Hà Nội"
+ },
+ {
+  "id": "3cfb70c3-216f-487a-819b-8f85413bf584",
+  "lat": 10.9510506,
+  "lng": 106.7381988,
+  "address": "344d/2 Lê Thị Trung Khu Phố 1b - Phường An Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "192e2a9e-aed9-46f1-8bd9-cae26562d8bc",
+  "lat": 10.79904525,
+  "lng": 106.79414955,
+  "address": "34N2 KDC Khang Điền Mega Ruby P.Long Trường TP.HCM"
+ },
+ {
+  "id": "42796bfa-f84a-447c-851f-aa91202154e4",
+  "lat": 10.83794274,
+  "lng": 106.82993594,
+  "address": "Khu Đô Thị Vinhomes Grand Park - Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2278b2df-9367-41d6-a50c-1343aac7fb0b",
+  "lat": 10.7873125,
+  "lng": 106.7339375,
+  "address": "QPPM+WH, Phường An Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8d760eab-4937-4367-81db-ef3cb7b07e00",
+  "lat": 10.9000044,
+  "lng": 106.5916156,
+  "address": "143/8a Đường Lê Thị Lơ - Xã Hóc Môn,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "70d6379d-633e-4576-b775-d04533857052",
+  "lat": 21.00402556,
+  "lng": 105.75550283,
+  "address": "Packing zone 1, khu đô thị Vinhome Smart City Tây Mỗ, p. Tây Mỗ"
+ },
+ {
+  "id": "96525a15-58c6-40ed-876f-64671d2dfcfc",
+  "lat": 20.99047004,
+  "lng": 105.86069739,
+  "address": "35 Ngõ 35 Mai Động, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "8b3d8d83-0111-4a39-a229-7df7a8b089bf",
+  "lat": 11.09252648,
+  "lng": 106.54070753,
+  "address": "Ấp Lồ Ồ, Phường Tây Nam, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d294ac86-1a87-4a04-9673-80f50a31650f",
+  "lat": 10.9777375,
+  "lng": 107.29120313,
+  "address": "X7HR+3FW - Phường Bảo Vinh,Thành phố Đồng Nai"
+ },
+ {
+  "id": "b2c67021-5160-4bc5-a380-a8fe52aa9383",
+  "lat": 10.83852298,
+  "lng": 106.67203859,
+  "address": "71 Nguyễn Văn Lượng, Phường Gò Vấp, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "0ec7841e-58aa-4118-b142-807babf97335",
+  "lat": 10.73526575,
+  "lng": 106.61990683,
+  "address": "11 Đường Số 3B Khu Phố 6 Khu Tái Định Cư Lý Chiêu Hoàng - Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "65d39fd4-c050-47d9-b5b7-eb782536fcd6",
+  "lat": 21.0404875,
+  "lng": 105.77551563,
+  "address": "2QRG+56R, Phường Phú Diễn, Thành phố Hà Nội"
+ },
+ {
+  "id": "2cf36589-592c-4af9-a499-a1b615580543",
+  "lat": 21.0420177,
+  "lng": 105.8815229,
+  "address": "Xưởng Công ty TNHH Kỹ thuật Quản lý Bay, Gia Thụy, Long Biên, Hà Nội"
+ },
+ {
+  "id": "66115dcc-ae9b-48ee-b57e-03317d07a86c",
+  "lat": 10.79210424,
+  "lng": 106.60580461,
+  "address": "706 Đường Tân Kỳ Tân Quý, Phường Bình Hưng Hòa, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8fe6940b-00e4-4ad3-9c72-e1f28ed1bb01",
+  "lat": 10.9910125,
+  "lng": 106.73673438,
+  "address": "XPRP+CM5, Phường Tân Khánh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "34766fec-4213-4630-982a-104a4bc0505f",
+  "lat": 21.058676,
+  "lng": 105.8354585,
+  "address": "Ngõ 310 Nghi Tàm, Phường Hồng Hà, Thành phố Hà Nội"
+ },
+ {
+  "id": "1f9382a0-0cce-40ab-b764-89f9dac251aa",
+  "lat": 21.001591,
+  "lng": 105.8739518,
+  "address": "11 Vĩnh Tuy, Phường Vĩnh Tuy, Hà Nội"
+ },
+ {
+  "id": "c7b2c752-e170-4e8f-9321-044c447b490c",
+  "lat": 10.80686276,
+  "lng": 106.79850915,
+  "address": "101 Bưng Ông Thoàn Phường Phú Hữu, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "50672465-4e5c-469a-8dc0-de80141055a2",
+  "lat": 10.76717562,
+  "lng": 106.66031699,
+  "address": "Chung Cư Xi Grand Court-Block A2, Phường Diên Hồng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "70c3fccb-c420-43f7-8a85-2d3e653bd3cc",
+  "lat": 21.04384746,
+  "lng": 105.84283746,
+  "address": "56 Cửa Bắc, Phường Ba Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "a98c2882-25aa-47dd-8d56-f3b0ff4e6ead",
+  "lat": 10.80793855,
+  "lng": 106.67923405,
+  "address": "168 Thích Quảng Đức Phường Đức Nhuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b3f6039c-bf8d-4774-bc37-0ceed2dd1bb1",
+  "lat": 20.97948433,
+  "lng": 105.89005307,
+  "address": "Phường Lĩnh Nam - Phường Lĩnh Nam, Thành phố Hà Nội"
+ },
+ {
+  "id": "58df8559-06e2-476f-b85e-18c6ca1d139f",
+  "lat": 20.98602613,
+  "lng": 105.93314908,
+  "address": "Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội"
+ },
+ {
+  "id": "ce37255c-fbc0-46d7-9d3d-c796b9dad5bb",
+  "lat": 10.7462389,
+  "lng": 106.6378118,
+  "address": "Chung Cư Him Lam Chợ Lớn - Phường Bình Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "766a3752-b2cf-4ad3-85aa-0b3d88889fde",
+  "lat": 10.89184659,
+  "lng": 106.7630427,
+  "address": "Dĩ An, Bình Dương (GPS 10.91733,106.76064)"
+ },
+ {
+  "id": "3b28cc1d-6d1c-4b1b-a3dd-6b4a17c8dace",
+  "lat": 10.9617153,
+  "lng": 106.8563417,
+  "address": "103 Phạm Văn Khoai, KP13, Tam Hiệp, TP Đồng Nai"
+ },
+ {
+  "id": "6bd3f545-7695-4c9c-8e8c-d1b8c8cc8295",
+  "lat": 20.996214,
+  "lng": 105.7468612,
+  "address": "272 Hữu Hưng, Hà Nội"
+ },
+ {
+  "id": "2f2b6053-d368-42a2-9083-4c366c406a4f",
+  "lat": 10.8999515,
+  "lng": 106.9107201,
+  "address": "Sân Bóng Mini Xuân Đông, Phường Phước Tân, Thành phố Đồng Nai"
+ },
+ {
+  "id": "31a172a5-5648-44b9-83c8-6c227957f8ab",
+  "lat": 10.9541125,
+  "lng": 106.71401563,
+  "address": "XP37+JJR, Phường Thuận Giao, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e952c1a1-25d0-489a-a1a0-de17b274f34c",
+  "lat": 21.00014043,
+  "lng": 105.79948179,
+  "address": "Sảnh Đón Trả Khách Tòa B Chung Cư Việt Đức Complex Ngõ 187 Nguyễn Tuân - Phường Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "f18282c9-5147-4738-a934-9f746c3d6c4b",
+  "lat": 10.79053621,
+  "lng": 106.65469961,
+  "address": "1073/71 Cách Mạng Tháng 8, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "44e332a6-e5e5-43ce-945b-1b887b51822a",
+  "lat": 10.78861994,
+  "lng": 106.64983456,
+  "address": "9 Phạm Phú Thứ - Phường Bảy Hiền, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f59c77d9-7bca-4029-b449-02519b7cf858",
+  "lat": 21.0418125,
+  "lng": 105.90764063,
+  "address": "2WR5+P3C - Phường Phúc Lợi,Thành phố Hà Nội"
+ },
+ {
+  "id": "ebb58a58-2119-4914-93b2-c345c6ca2243",
+  "lat": 10.90618611,
+  "lng": 106.88742795,
+  "address": "301 Đường 6a, Phường Long Hưng, Thành phố Đồng Nai"
+ },
+ {
+  "id": "53759317-250b-4ce5-9589-7cc74f9fdd4e",
+  "lat": 10.83547516,
+  "lng": 106.66185072,
+  "address": "641 Quang Trung Phường Thông Tây Hội, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "51b03ca2-e7f4-4518-82cb-97c9c28fcc0f",
+  "lat": 10.965715,
+  "lng": 106.8318269,
+  "address": "Cư Xá Quân Đội, Phường Tân Triều, Thành phố Đồng Nai"
+ },
+ {
+  "id": "9d8c7218-6f8e-4ee8-93cf-72fc8b768f0d",
+  "lat": 20.90710635,
+  "lng": 105.85264466,
+  "address": "Cụm Công Nghiệp Ngọc Hồi, Xã Ngọc Hồi, Thành phố Hà Nội"
+ },
+ {
+  "id": "de05d919-b53f-4cb1-a11a-eb45948de9b8",
+  "lat": 11.0174224,
+  "lng": 106.6753226,
+  "address": "Hồ Bơi Khu Nhà Ở Thương Mại Dịch Vụ Phú Mỹ, Phường Phú Mỹ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương"
+ },
+ {
+  "id": "25456776-0e93-4492-9574-8a9f9c614e9d",
+  "lat": 10.86980413,
+  "lng": 106.67715315,
+  "address": "Trạm Sạc Điện Ô Tô VinFast Bãi Đỗ Xe 437 Hà Huy Giáp 437 Hà Huy Giáp, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8b3ad2b0-bc47-494c-98f5-c82f729e4937",
+  "lat": 20.7354213,
+  "lng": 105.76848272,
+  "address": "14 Trung Tâm Thương Mại 2, Thị trấn Vân Đình, Huyện Ứng Hòa, Thành phố Hà Nội"
+ },
+ {
+  "id": "53b5c36e-03d6-4220-9cfb-e938be1802d5",
+  "lat": 20.9860053,
+  "lng": 105.737925,
+  "address": "16 Lê Trọng Tấn Khu Đô Thị Geleximco, Phường Dương Nội, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "bc19413e-5e11-41ee-9783-1fc593fe5e58",
+  "lat": 21.0663125,
+  "lng": 105.79829688,
+  "address": "3Q8X+G8F - Phường Xuân Đỉnh,Thành phố Hà Nội"
+ },
+ {
+  "id": "594a5140-060b-4f26-b8b1-bacd2d3e30c8",
+  "lat": 10.80664536,
+  "lng": 106.78916592,
+  "address": "269 Liên Phường Phường Phước Long, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "1c70eb4e-3ef0-486c-b80f-d690b7beadb7",
+  "lat": 20.93293404,
+  "lng": 105.84393781,
+  "address": "Khu Tập Thể Viện Khoa Học Nông Nghiệp - Xã Thanh Trì, Thành phố Hà Nội"
+ },
+ {
+  "id": "4a47e7af-d508-4a90-af73-42a89a9fab17",
+  "lat": 20.9652417,
+  "lng": 105.8451086,
+  "address": "Cửa Hàng Lốp Ô Tô Leao&Atlas-Số 1 Trần Thủ Độ Phường Yên Sở, Thành phố Hà Nội"
+ },
+ {
+  "id": "31012a50-9ee8-4a75-a73d-39e331e4740c",
+  "lat": 21.05807786,
+  "lng": 105.89038984,
+  "address": "89 Đường Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà Nội"
+ },
+ {
+  "id": "0369095d-d00a-45c1-8a12-a4cf7f7216b7",
+  "lat": 10.9714375,
+  "lng": 106.86545313,
+  "address": "XVC8+H5G, Phường Trảng Dài, Thành phố Đồng Nai"
+ },
+ {
+  "id": "5cb13ae5-98d7-497e-9fb9-5398ca80192d",
+  "lat": 21.04230509,
+  "lng": 105.84339502,
+  "address": "112 Quán Thánh, Phường Quán Thánh, Quận Ba Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "8972438d-26f6-4298-9c78-c1222fc47bc8",
+  "lat": 21.03995564,
+  "lng": 105.80583682,
+  "address": "1 Đông Quan - Phường Nghĩa Đô, Thành phố Hà Nội"
+ },
+ {
+  "id": "fa857a62-7b9f-43a7-99a4-cf0f85ef7448",
+  "lat": 21.0238823,
+  "lng": 105.78977771,
+  "address": "Tòa Nhà Golden Park-Cổng Phạm Văn Bạch - Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "22be3394-baa5-4bc8-a409-6537c9269cb9",
+  "lat": 10.7613125,
+  "lng": 106.6100625,
+  "address": "QJ66+G2, Phường Bình Trị Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bf52dbb5-0768-4626-bc26-d4052f494373",
+  "lat": 20.98294468,
+  "lng": 105.84986242,
+  "address": "Tân Mai, Hoàng Mai, Hà Nội"
+ },
+ {
+  "id": "954b05a9-5846-42c6-b6d1-7de1fc7f1f12",
+  "lat": 16.061688,
+  "lng": 108.203704,
+  "address": "Đường Trường Thi 1 - Phường Hòa Cường, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "2be573b6-68d1-4290-8415-67c4364b317e",
+  "lat": 10.7278125,
+  "lng": 106.6254375,
+  "address": "PJHG+45 Phường Bình Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "63a83a58-b975-4e57-9daa-d875d064b5eb",
+  "lat": 10.79644838,
+  "lng": 106.69106707,
+  "address": "39 đường Hoa Hồng P2 Phú Nhuận"
+ },
+ {
+  "id": "7f2c68a9-26ea-470d-b85f-87001c853cdc",
+  "lat": 10.9934875,
+  "lng": 106.85682812,
+  "address": "XVV4+9PW - Phường Trảng Dài,Thành phố Đồng Nai"
+ },
+ {
+  "id": "c1fa36cd-bf50-456d-971b-a2ce3bc881fd",
+  "lat": 10.74876906,
+  "lng": 106.72306869,
+  "address": "39b Nguyễn Văn Linh - Phường Tân Thuận Tây, Quận 7, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "9190706f-9222-4ee4-9481-43b511ff34d8",
+  "lat": 10.76093559,
+  "lng": 106.68241793,
+  "address": "280 An Dương Vương, Phường Chợ Quán, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "538677cf-c467-4b98-b997-124dbffc51e0",
+  "lat": 10.9827125,
+  "lng": 106.66267188,
+  "address": "XMM7+33M Phường Thủ Dầu Một, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "cad381fc-e336-46f4-b2c6-9ff76819b0a5",
+  "lat": 16.0649488,
+  "lng": 108.2228315,
+  "address": "27 Thái Phiên - Phường Hải Châu, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "1d597c7a-1217-49e5-909e-753d86ee5a2a",
+  "lat": 10.82044563,
+  "lng": 106.60613685,
+  "address": "45/2 Phạm Đăng Giảng Phường Bình Hưng Hòa, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c577952f-84bc-463f-9121-e8d6112805b2",
+  "lat": 10.83523611,
+  "lng": 106.66268087,
+  "address": "637 Quang Trung, Phường Thông Tây Hội, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "89521d78-08e6-4e21-93e9-99319abfca54",
+  "lat": 10.79998769,
+  "lng": 106.62331295,
+  "address": "337/44 Tân Kỳ Tân Quý, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8c3e323e-2492-48f5-b3e7-28f64270c098",
+  "lat": 20.97250599,
+  "lng": 105.7494804,
+  "address": "No.03-Lk35-Khu Đất Dịch Vụ - Phường Dương Nội, Thành phố Hà Nội"
+ },
+ {
+  "id": "83902a63-8b76-474c-9c53-2563e4c4cb03",
+  "lat": 21.037791,
+  "lng": 105.7729194,
+  "address": "Toà 2A Vinaconex 7, 136 Hồ Tùng Mậu, Bắc Từ Liêm, Hà Nội"
+ },
+ {
+  "id": "bbae8bef-6dba-4306-9b1e-b7ea36748b2b",
+  "lat": 21.04176896,
+  "lng": 105.77493206,
+  "address": "227 Mai Dịch, Phường Mai Dịch, Quận Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "a40046eb-0577-44a9-b8a4-51f5ffb26b69",
+  "lat": 10.74113132,
+  "lng": 106.68571495,
+  "address": "313 Âu Dương Lân Phường Chánh Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "73c94016-9439-4529-a697-77f546f9e295",
+  "lat": 16.0223239,
+  "lng": 108.22550001,
+  "address": "29 Nguyễn Phước Lan - Phường Hòa Xuân, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "df9f5370-55d2-49f4-bcbe-024963906007",
+  "lat": 20.99384523,
+  "lng": 105.80688694,
+  "address": "275 Nguyễn Trãi, Thanh Xuân, Hà Nội"
+ },
+ {
+  "id": "ffcf2b95-1b3c-443a-aded-0120c9ab8e2b",
+  "lat": 10.77954499,
+  "lng": 106.59554252,
+  "address": "55/6/19 Đường 18b Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "25f3e92f-d90e-4cf7-89ea-b0db3178733d",
+  "lat": 10.83690107,
+  "lng": 106.7556843,
+  "address": "34 Đường Số 12 Phường Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f6b9c33a-2d3e-4a66-acb3-16c455aedf9b",
+  "lat": 10.9721186,
+  "lng": 106.48645151,
+  "address": "24A Đường Số 12A Khu Phố 8, Thị trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "439520e6-b265-4dd2-b720-0eccad52ba98",
+  "lat": 10.75727545,
+  "lng": 106.66857131,
+  "address": "110 Hùng Vương - Phường An Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a5893662-d178-443f-986e-e2a942c3120b",
+  "lat": 10.88282504,
+  "lng": 106.678048,
+  "address": "125/12 Tổ 30 kp2, Đ. TX 33, Thới An, Hồ Chí Minh, Vietnam"
+ },
+ {
+  "id": "7431e322-0b0a-4ea5-b606-c2b614fc829f",
+  "lat": 21.03478935,
+  "lng": 105.85747956,
+  "address": "87 Nguyên Khiết, Phường Hồng Hà, Thành phố Hà Nội"
+ },
+ {
+  "id": "29a5e7a5-bc9b-483c-869e-9bb4975f7cef",
+  "lat": 20.9866735,
+  "lng": 105.85836,
+  "address": "Đường Hồ Đền Lừ Phường Tương Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "01188390-dda4-47fa-bf7f-b6ad2a8631be",
+  "lat": 10.78342933,
+  "lng": 106.68743795,
+  "address": "206 Võ Thị Sáu Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "827013a9-2c38-4008-9403-ce9ce55c624d",
+  "lat": 21.00567433,
+  "lng": 105.82290341,
+  "address": "Tòa Nhà Mipec - 229 Tây Sơn, Phường Kim Liên, Thành phố Hà Nội"
+ },
+ {
+  "id": "cb195d21-83b6-4167-93b4-849335184137",
+  "lat": 10.75206019,
+  "lng": 106.60168209,
+  "address": "70 Đường Số 47 Phường Tân Tạo, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "8edd1ff9-eaa5-4e14-97de-92a04a531a3d",
+  "lat": 20.9842919,
+  "lng": 105.82370941,
+  "address": "230 Định Công Thượng - Phường Định Công,Thành phố Hà Nội"
+ },
+ {
+  "id": "2d8e9031-bc81-4a6c-8e11-0ca2025fd24f",
+  "lat": 10.7848125,
+  "lng": 106.7476875,
+  "address": "QPMX+W3 - Phường An Khánh,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "69f7d53a-0003-40ae-8df8-1b649e2aa93a",
+  "lat": 10.86531462,
+  "lng": 106.72709726,
+  "address": "Cổng AD1 Chung Cư Sunview Town-Block Sapphire - Phường Hiệp Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7b6218cf-5092-46cd-9534-b1dedefb342a",
+  "lat": 10.76259277,
+  "lng": 106.66043657,
+  "address": "124 Lý Thường Kiệt, Phường Diên Hồng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "09cd2165-8b23-426e-997d-6371a5ecd9c2",
+  "lat": 21.31838333,
+  "lng": 105.87567094,
+  "address": "Khu Tái Định Cư Trung Giã Xã Trung Giã, Thành phố Hà Nội"
+ },
+ {
+  "id": "a38bf7dd-f1df-4e7c-a82d-dde141081f2e",
+  "lat": 10.91572464,
+  "lng": 106.75128536,
+  "address": "83 Đường Nguyễn Thị Minh Khai, Tân Đông Hiệp, Dĩ An, Bình Dương"
+ },
+ {
+  "id": "e4a10bf6-bfd1-4dc1-86e7-2c0a5a2c6fb1",
+  "lat": 11.1093559,
+  "lng": 106.7588323,
+  "address": "Tổ 2 Khu Phố 2 Phường Bình Cơ, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "80a4b646-de14-40ff-a3e4-fc484e8d5fa7",
+  "lat": 10.73145363,
+  "lng": 106.70968269,
+  "address": "Saigon South Residence, Phường Tân Hưng, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a2993804-2292-48a3-8b3d-464ab0267aec",
+  "lat": 10.787984,
+  "lng": 106.65085963,
+  "address": "Nhà Thờ Phú Trúng Bảy Hiền, Phường 11, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bd063774-7e30-472c-8066-ceec72d40672",
+  "lat": 10.8093161,
+  "lng": 106.6027263,
+  "address": "Công Ty Dệt May Thiện Phước, Phường Bình Hưng Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "07218c32-6970-4b54-9dcf-41ac470bf8af",
+  "lat": 10.82544881,
+  "lng": 106.63626545,
+  "address": "98/32 Trần Thị Trọng Phường 15, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2b8f4f75-5759-4eae-960b-678667f85e14",
+  "lat": 10.8358249,
+  "lng": 106.74568384,
+  "address": "65 Đường Số 36 - Phường Linh Đông, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a9891f27-f2f2-47c8-a1e3-53f73dea689b",
+  "lat": 20.9964876,
+  "lng": 105.86348588,
+  "address": "378 Minh Khai - Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "da3e64f3-5d05-44ce-9174-1865b558538f",
+  "lat": 20.89930042,
+  "lng": 105.57733624,
+  "address": "Xã Xuân Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "5c45d1b3-a7a7-4bd9-a8fb-eccec9d39c9a",
+  "lat": 20.98903077,
+  "lng": 105.80819227,
+  "address": "133 Ngõ 85 Hạ Đình - Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "5b319e6e-1473-4eaa-b3bb-341fa3f0ef1a",
+  "lat": 10.8353237,
+  "lng": 106.6869984,
+  "address": "173/18 Đường Số 20, Phường An Nhơn, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d097ae34-e1ec-485a-abe7-0bc6f994297d",
+  "lat": 10.82138272,
+  "lng": 106.81896,
+  "address": "75/2A Đường Số 4, Trường Thạnh, Quận 9, Hồ Chí Minh"
+ },
+ {
+  "id": "e0f8bd17-1371-4b9f-9847-9212375263ee",
+  "lat": 21.04873607,
+  "lng": 105.75474224,
+  "address": "168 Phúc Minh, Phường Phú Diễn, Thành phố Hà Nội"
+ },
+ {
+  "id": "4eabd368-4136-4652-ad66-18f83e198196",
+  "lat": 10.7966249,
+  "lng": 106.65235674,
+  "address": "216A Nguyễn Thái Bình Phường Bảy Hiền, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ec468e08-2e94-4574-a3cb-e76c1692c582",
+  "lat": 10.9629759,
+  "lng": 106.8756179,
+  "address": "Nhà Thuốc Ngọc Tú - Phường Long Bình, Thành phố Đồng Nai"
+ },
+ {
+  "id": "77519adc-d705-4389-ad1d-33c305dae09c",
+  "lat": 20.8657375,
+  "lng": 105.65857812,
+  "address": "VM85+7CW - Xã Trần Phú,Thành phố Hà Nội"
+ },
+ {
+  "id": "30cbc99d-f924-4503-90df-2d07963704cd",
+  "lat": 10.73569732,
+  "lng": 106.67585281,
+  "address": "169/21 Đường Nguyễn Thị Mười, Phường 4, Quận 8, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "5080a83d-abb4-46ab-81e8-e1284a778a2e",
+  "lat": 21.04387663,
+  "lng": 105.81604702,
+  "address": "266 Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Thành phố Hà Nội"
+ },
+ {
+  "id": "84f35b65-3069-47d5-8b32-f9d5fc3898b4",
+  "lat": 10.88418561,
+  "lng": 106.70743365,
+  "address": "15 KDC Vĩnh Phú 2 Khu Dân Cư Vĩnh Phú 2, Phường Bình Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "45fcd498-9406-4350-8749-9179162e1610",
+  "lat": 10.6885451,
+  "lng": 106.7050357,
+  "address": "Salon Tóc Trà My - 1419/146A Lê Văn Lương, Xã Nhà Bè, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6bf1c65f-2f29-4c88-86a8-7e65674606a8",
+  "lat": 10.87533927,
+  "lng": 106.6893428,
+  "address": "71/7 Thạnh Lộc 31, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "1d61b585-4680-4728-b672-c73252343574",
+  "lat": 20.95834051,
+  "lng": 105.79267371,
+  "address": "107, tổ 9, Kiến Hưng, Hà Nội"
+ },
+ {
+  "id": "903b9dff-b56b-4975-b694-6b4d02a91042",
+  "lat": 10.93528435,
+  "lng": 106.5206808,
+  "address": "76 Lê Thị Siêng - Xã Tân Thông Hội, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "459619d9-c987-45c6-b1be-22df71bcf1df",
+  "lat": 11.0959625,
+  "lng": 107.04004688,
+  "address": "32WR+92M - Phường Trị An,Thành phố Đồng Nai"
+ },
+ {
+  "id": "4d534790-ed6b-4014-9f74-b1c7a2581c1b",
+  "lat": 10.8740875,
+  "lng": 106.92157813,
+  "address": "VWFC+JJP - Phường Tam Phước,Thành phố Đồng Nai"
+ },
+ {
+  "id": "56edf9e7-7d2a-4ba6-9115-c11239b121ae",
+  "lat": 20.98140511,
+  "lng": 105.68637874,
+  "address": "Bia Hơi Anh Em Cơ Sở 2 212 Phương Quan Thôn Phương Quan, Xã An Khánh, Thành phố Hà Nội"
+ },
+ {
+  "id": "156b6eef-ff1a-4e6d-88d7-b93c7a76f8a4",
+  "lat": 21.0415452,
+  "lng": 105.90389854,
+  "address": "Chung Cư Hope Residences-Cổng Nguyễn Lam, Phường Phúc Lợi, Thành phố Hà Nội"
+ },
+ {
+  "id": "1428baf5-058b-43f9-bf65-af915af5b568",
+  "lat": 10.80029231,
+  "lng": 106.82458439,
+  "address": "47/68/40/104/4 Trường Lưu Phường Long Trường, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e3c8d0f0-2b72-4506-a3c2-d0b7ce9f4844",
+  "lat": 10.79346193,
+  "lng": 106.65246749,
+  "address": "52 Trường Chinh Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c74fa48a-a619-448c-a60a-c4444bcf0bf9",
+  "lat": 10.7914675,
+  "lng": 106.777347,
+  "address": "Đường Số 55 - Phường Bình Trưng Đông, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "32c1d0d9-fe08-473a-9d73-1141e20de9bc",
+  "lat": 10.8303375,
+  "lng": 106.68632813,
+  "address": "RMJP+4GP Hạnh Thông, Hồ Chí Minh"
+ },
+ {
+  "id": "a3ed24bb-ebe1-49e0-8e23-cc17d36c3027",
+  "lat": 10.8224625,
+  "lng": 106.62485938,
+  "address": "RJCF+XWQ - Phường Đông Hưng Thuận,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "b6fcad4a-a82c-4855-b8db-359dac53bdcb",
+  "lat": 10.8924625,
+  "lng": 106.72542188,
+  "address": "VPRG+X5M, Phường Bình Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "93df6178-27fd-4975-836c-b8ba50ee54ab",
+  "lat": 10.8519375,
+  "lng": 106.73957813,
+  "address": "VP2Q+QRG - Phường Tam Bình,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "4547b874-a344-451b-b507-389bdbf27b31",
+  "lat": 10.76519802,
+  "lng": 106.6862725,
+  "address": "212B/1 Nguyễn Trãi - Phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "850267c1-d6bf-4111-9a15-ff6395be1a9f",
+  "lat": 10.76762765,
+  "lng": 106.60502511,
+  "address": "730/1H Hương Lộ 2, Phường Bình Trị Đông, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d884e7d9-cc6b-49ba-88f9-d9eff4868975",
+  "lat": 21.02578534,
+  "lng": 105.89193411,
+  "address": "18 Ngõ 81 Phố Trạm, Phường Long Biên, Thành phố Hà Nội"
+ },
+ {
+  "id": "7c2d0e9f-1c7f-439e-8eef-cf3ef534b41a",
+  "lat": 10.9195125,
+  "lng": 106.77942188,
+  "address": "WQ9H+RQ3 - Phường Tân Đông Hiệp,Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ea973664-0716-4680-8945-83ef6f04006b",
+  "lat": 10.75361319,
+  "lng": 106.60852312,
+  "address": "32 Đường Số 33, Phường Bình Trị Đông B, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "5c5aafc2-57bd-4354-a9f2-e4f3e4ea53e3",
+  "lat": 10.83239061,
+  "lng": 106.71412887,
+  "address": "216 Quốc Lộ 13, Hiệp Bình Chánh, Thủ Đức"
+ },
+ {
+  "id": "b5bf578a-0d17-4631-8cb8-a653fdf1cee8",
+  "lat": 10.73859874,
+  "lng": 106.67895318,
+  "address": "39 Cao Lỗ - Phường 4, Quận 8, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "697042e4-6afd-4b49-8bc4-8678306a389b",
+  "lat": 21.06057905,
+  "lng": 105.90063669,
+  "address": "Khánh Coffee 2 Kim Quan Thượng Thôn Kim Quan, Phường Việt Hưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "06db1f85-e0b6-4160-af63-c7922b1bfbaa",
+  "lat": 10.8641039,
+  "lng": 106.68332098,
+  "address": "41 Thạnh Lộc 16, Phường Thạnh Lộc, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a3a7085a-7cb7-436c-82a9-3c99c312f42e",
+  "lat": 21.03694578,
+  "lng": 105.76658224,
+  "address": "Ngõ 18 Nguyễn Cơ Thạch - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "a61a5a7f-68f5-48ca-a05b-b412356c68f3",
+  "lat": 10.87199153,
+  "lng": 106.53355985,
+  "address": "7A214 Nguyễn Văn Bứa Ấp 7 Xã Vĩnh Lộc, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "fece840e-79ae-4e1c-8b80-548f289c50d4",
+  "lat": 10.84424037,
+  "lng": 106.70856817,
+  "address": "Khu Đô Thị Vạn Phúc - Phường Hiệp Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d0e1e631-cf82-40f0-82fe-e81a696048eb",
+  "lat": 21.0269417,
+  "lng": 105.7057792,
+  "address": "Xã Sơn Đồng, Xã Lại Yên, Huyện Hoài Đức, Thành phố Hà Nội"
+ },
+ {
+  "id": "4915c8f3-b4ce-4511-9d23-335302d7dfca",
+  "lat": 21.0615375,
+  "lng": 105.90867188,
+  "address": "3W65+JF7 - Phường Việt Hưng,Thành phố Hà Nội"
+ },
+ {
+  "id": "a0a5b0ee-71d5-4a59-8710-89ca9aa4d303",
+  "lat": 10.84711089,
+  "lng": 106.6456923,
+  "address": "159 Phạm Văn Chiêu - Phường An Hội Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "baf3e69a-fe35-476f-85fb-13845900db8c",
+  "lat": 20.9859109,
+  "lng": 105.761777,
+  "address": "1 Louis 6 Phường Đại Mỗ, Thành phố Hà Nội"
+ },
+ {
+  "id": "5aba8176-bd38-4d83-8ec7-4a03c49abfe4",
+  "lat": 21.0151875,
+  "lng": 105.77407813,
+  "address": "2Q8F+3JG - Phường Từ Liêm,Thành phố Hà Nội"
+ },
+ {
+  "id": "52eb8e0c-38ba-41e6-9502-c6093842c208",
+  "lat": 10.78964437,
+  "lng": 106.71754956,
+  "address": "90 Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e8b3e06b-76f8-4e64-929d-dfba6284344c",
+  "lat": 15.95170538,
+  "lng": 108.25447748,
+  "address": "642 Trần Hưng Đạo - Phường Điện Bàn Đông, Thành phố Đà Nẵng"
+ },
+ {
+  "id": "3305b4ef-9872-4a60-b578-4437a6e45715",
+  "lat": 21.00987197,
+  "lng": 105.85398604,
+  "address": "Cổng Đón Trả Khách Trường Trung Học Cơ Sở Đoàn Kết Phường Hai Bà Trưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "15068675-2057-4fa4-948c-266232e27b5c",
+  "lat": 10.76421489,
+  "lng": 106.69107949,
+  "address": "51 Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "053f3079-3b42-4f6f-91ca-74798d17cc6b",
+  "lat": 10.80397503,
+  "lng": 106.66676526,
+  "address": "54/27 Phổ Quang, Tân Bình, TP.HCM"
+ },
+ {
+  "id": "675d49fe-0be6-46b3-8e3c-f968d9983348",
+  "lat": 10.86707377,
+  "lng": 106.63738375,
+  "address": "123/8 Tân Thới Hiệp 14 - Phường Tân Thới Hiệp, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "743a76b6-5496-4c16-a0ac-c4151c727e43",
+  "lat": 10.78972396,
+  "lng": 106.64019648,
+  "address": "685 Âu Cơ - Phường Tân Phú, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "30a3ff19-8fa4-40b3-b897-d2e917a45d38",
+  "lat": 10.80581687,
+  "lng": 106.71409732,
+  "address": "157/52 Nguyễn Gia Trí - Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f7722ddd-8992-4f15-813b-8d667e180065",
+  "lat": 10.8430125,
+  "lng": 106.62635937,
+  "address": "RJVG+6G5, Phường Đông Hưng Thuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "a523cc9b-f90d-47bc-9816-35584770baba",
+  "lat": 20.9739677,
+  "lng": 105.75854275,
+  "address": "Tòa Nhà Nam Cường Phường Dương Nội, Thành phố Hà Nội"
+ },
+ {
+  "id": "0b63d5e2-dd42-40f7-841d-1bbb6ec2a7ae",
+  "lat": 21.0975038,
+  "lng": 105.732144,
+  "address": "Số 4 Ngõ 40 Đường Đông Ba, Tổ Dân Phố Đông Ba 1, Phường Thượng Cát, Hà Nội"
+ },
+ {
+  "id": "b3ac5d01-3c03-40d3-bdcb-135912c2ae92",
+  "lat": 21.03557289,
+  "lng": 105.79209796,
+  "address": "335 Cầu Giấy, Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "f3c115da-951e-41fe-ab7e-7d9b10548994",
+  "lat": 10.77740513,
+  "lng": 106.7559834,
+  "address": "Chung Cư Feliz En Vista - Phường Cát Lái, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "bf901e1a-ea42-425c-8bf2-c8541d1ae6be",
+  "lat": 10.83794274,
+  "lng": 106.82993594,
+  "address": "Vinhomes Grand Park, Phường Long Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "fe4e1b19-4bcb-4da0-9de8-bba256b097b8",
+  "lat": 10.90353767,
+  "lng": 106.701721,
+  "address": "Đông Nhì, Phường Lái Thiêu, Thành phố Thuận An, Tỉnh Bình Dương"
+ },
+ {
+  "id": "85e8b8e9-0292-4f37-8199-a9279bb83e97",
+  "lat": 10.74770862,
+  "lng": 106.67699234,
+  "address": "Diamond Lotus Riverside Phường Hưng Phú, Quận 8, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "45ff38c4-3d22-4e9e-859a-1af1fe0de2e9",
+  "lat": 21.06736942,
+  "lng": 105.78881376,
+  "address": "68 Phố Lộc Phường Xuân Đỉnh, Thành phố Hà Nội"
+ },
+ {
+  "id": "798a144f-3505-46ac-a3c8-c35641fad4d0",
+  "lat": 10.80073621,
+  "lng": 106.69154783,
+  "address": "62/20 Nguyễn Lâm, Phường 7, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "c26a8623-e970-40ee-b011-92492f44df86",
+  "lat": 10.7999649,
+  "lng": 106.7184957,
+  "address": "Cgv Pearl Plaza - Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "2d5705cf-87a0-4234-8359-d345e55fad63",
+  "lat": 21.0441875,
+  "lng": 105.8431875,
+  "address": "7PH72RVV+M7 - Phường Ba Đình,Thành phố Hà Nội"
+ },
+ {
+  "id": "9ee9ae71-aa90-4dff-883e-c085a3bff2a8",
+  "lat": 10.75607115,
+  "lng": 106.69369308,
+  "address": "131 Nguyễn Khoái, Phường Vĩnh Hội, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "97f7fc30-70ad-41b4-95ea-f8a1b82ce9e7",
+  "lat": 21.0031875,
+  "lng": 105.9458125,
+  "address": "7PH72W3W+78, Xã Gia Lâm, Thành phố Hà Nội"
+ },
+ {
+  "id": "45b5cef6-1a2b-4681-afdb-ea7f2430fabb",
+  "lat": 11.04323963,
+  "lng": 106.64243113,
+  "address": "284/11, khu phố 1, Phường Hòa Lợi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f533364e-7b3e-4c48-95b4-3f52328650d6",
+  "lat": 10.81609,
+  "lng": 106.781345,
+  "address": "Khu Dân Cư Khang Điền Phường Phước Long, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "917cf099-9e16-40e0-8bb0-1593cfa6595d",
+  "lat": 21.04528716,
+  "lng": 105.84603343,
+  "address": "39 Hồng Hà Phường Hồng Hà, Thành phố Hà Nội"
+ },
+ {
+  "id": "6c26ea55-fa6d-4fec-8b6d-70433315ee01",
+  "lat": 20.9785375,
+  "lng": 105.85295313,
+  "address": "XVH3+C58 - Phường Hoàng Mai,Thành phố Hà Nội"
+ },
+ {
+  "id": "f3abc19c-e055-4e62-8101-56a6bbc6ce96",
+  "lat": 20.98356629,
+  "lng": 105.85037325,
+  "address": "ATM VietinBank 25 Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Thành phố Hà Nội"
+ },
+ {
+  "id": "1f139bb3-e285-4db7-bc61-d43f58f53453",
+  "lat": 21.02976723,
+  "lng": 105.77458254,
+  "address": "48 Mỹ Đình - Phường Từ Liêm, Thành phố Hà Nội"
+ },
+ {
+  "id": "e4b30602-d897-46f7-930d-1f3b5d8045db",
+  "lat": 10.70162141,
+  "lng": 106.74164501,
+  "address": "94 Dương Cát Lợi Xã Nhà Bè, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "ccd613ed-06eb-49b9-8a5a-41956cb86851",
+  "lat": 10.75661935,
+  "lng": 106.60019706,
+  "address": "1104/3A Tỉnh Lộ 10 - Phường Tân Tạo, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "7c5a2b2e-5f03-46cb-aad0-eee017b22743",
+  "lat": 20.95843574,
+  "lng": 105.76771739,
+  "address": "257 Lacasta Phường Phú La, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "6a88752e-d3de-46ad-85a4-68d48b891735",
+  "lat": 10.92147467,
+  "lng": 106.73605452,
+  "address": "5K/7 KDC 434, Phường Bình Hòa, Thuận An, Bình Dương"
+ },
+ {
+  "id": "d52ac05d-1935-4d0f-9de5-4659496e43c6",
+  "lat": 10.82342252,
+  "lng": 106.70715922,
+  "address": "Công Ty Cổ Phần Cơ Khí Xăng Dầu Petrolimex 446 Nơ Trang Long, Phường Bình Lợi Trung, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "af6885d9-16b3-4feb-b367-10b86471c13a",
+  "lat": 21.03072217,
+  "lng": 105.78837655,
+  "address": "Chung Cư The Park Home, Phường Cầu Giấy, Thành phố Hà Nội"
+ },
+ {
+  "id": "ec3a9381-cf8e-4219-b508-6e81aff450fd",
+  "lat": 20.9348125,
+  "lng": 105.85104688,
+  "address": "WVM2+WCF - Xã Thanh Trì,Thành phố Hà Nội"
+ },
+ {
+  "id": "01a41693-5c20-490a-8e4f-3862991eee86",
+  "lat": 10.8156193,
+  "lng": 106.6662141,
+  "address": "Khu A75 Bạch Đàng gần sân bay Tân Sơn Nhất"
+ },
+ {
+  "id": "d8b5d1ff-0d8b-4aa8-8f49-1a1d687507db",
+  "lat": 10.75370787,
+  "lng": 106.62896822,
+  "address": "N15 Khu Phố 4 Cư Xá Phú Lâm B, Phường Phú Lâm, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "9118e7dd-5e40-457f-856c-432428d30559",
+  "lat": 20.97207848,
+  "lng": 105.78842331,
+  "address": "A68 Đường TT5 - Phường Phúc La, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "7ed5562e-83bb-469b-87e7-0bc09b057564",
+  "lat": 10.86003208,
+  "lng": 106.76877985,
+  "address": "73/3B Đường Số 7, P. Linh Trung, Thủ Đức, TP.HCM"
+ },
+ {
+  "id": "607ffa23-7979-4396-870d-04813cff97a6",
+  "lat": 21.0349448,
+  "lng": 105.8168065,
+  "address": "260 Đội Cấn, Phường Liễu Giai, Quận Ba Đình, Thành phố Hà Nội"
+ },
+ {
+  "id": "513758fe-36e3-4719-823f-9fd767c8dce7",
+  "lat": 10.71763531,
+  "lng": 106.60760981,
+  "address": "Chung Cư Akari City-Nam Long 77 Võ Văn Kiệt, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "681d821a-a5fd-4785-9f51-cf23d033e6de",
+  "lat": 10.80780361,
+  "lng": 106.6684721,
+  "address": "99C Phổ Quang Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f0791bd3-4826-4cb7-b0ae-e679018a07ce",
+  "lat": 21.03439535,
+  "lng": 105.91007811,
+  "address": "BT08-N09 Khu Đô Thị Sài Đồng - Phường Phúc Lợi, Thành phố Hà Nội"
+ },
+ {
+  "id": "266da724-2950-4378-9d92-b22a343b88dd",
+  "lat": 20.9710094,
+  "lng": 105.83879723,
+  "address": "50 Nguyễn Hữu Thọ - Phường Định Công, Thành phố Hà Nội"
+ },
+ {
+  "id": "6ec74dd2-8ff1-49c7-a037-78676a91d934",
+  "lat": 20.9895,
+  "lng": 105.832354,
+  "address": "C7 Lô8, KĐT Định Công, Phương Liệt, Hà Nội"
+ },
+ {
+  "id": "76a50de5-de58-472e-b276-211c725010b8",
+  "lat": 21.1204625,
+  "lng": 105.66879688,
+  "address": "4MC9+5GM, Xã Đan Phượng,Thành phố Hà Nội"
+ },
+ {
+  "id": "68644956-5b6e-4829-9451-347375617686",
+  "lat": 10.87019816,
+  "lng": 106.65003702,
+  "address": "233, Tổ, 17, Tân Thới An, Quận 12, Hồ Chí Minh, Việt Nam"
+ },
+ {
+  "id": "fb2b7be0-39ad-47bb-b5b8-c073e640d240",
+  "lat": 21.01042578,
+  "lng": 105.81022727,
+  "address": "125 Nguyễn Ngọc Vũ Phường Yên Hòa, Thành phố Hà Nội"
+ },
+ {
+  "id": "ab5feb19-92ee-4926-bd25-34972121de82",
+  "lat": 20.99869623,
+  "lng": 105.79784939,
+  "address": "Chung Cư Licogi 13 - 164 Khuất Duy Tiến, Phường Thanh Xuân, Thành phố Hà Nội"
+ },
+ {
+  "id": "21bc27a9-0557-4828-aff2-2936c0b11377",
+  "lat": 10.75492675,
+  "lng": 106.65997147,
+  "address": "Plaza Thuận Kiều - Phường 12, Quận 5, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "d17fd961-6249-46f5-9af9-79272f9d93b6",
+  "lat": 10.92101877,
+  "lng": 106.73018861,
+  "address": "34/5A1 Đường N1, Phường Bình Hòa, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "03dba139-8dcd-4893-8b17-57c7b016fdae",
+  "lat": 20.9229625,
+  "lng": 105.84732812,
+  "address": "WRFW+5WP - Xã Ngọc Hồi,Thành phố Hà Nội"
+ },
+ {
+  "id": "a93606a0-65d9-4dfb-a87d-fe8b406f0a50",
+  "lat": 20.96134672,
+  "lng": 105.74479489,
+  "address": "Bệnh viên nhi hà nội"
+ },
+ {
+  "id": "aa294872-1804-45da-89f0-3c077ce66dc8",
+  "lat": 10.96786762,
+  "lng": 106.48905131,
+  "address": "12 Ninh Tốn, Thị trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "09c6ba85-5ca9-4ed4-b76f-4edfaeb73d71",
+  "lat": 20.9962621,
+  "lng": 105.912699,
+  "address": "31 Ngõ 74 Đường Giáp Hải, Xã Bát Tràng, Huyện Gia Lâm, Thành phố Hà Nội"
+ },
+ {
+  "id": "640676b7-387e-4078-8cbb-bc1a68b48504",
+  "lat": 10.78932042,
+  "lng": 106.6569695,
+  "address": "116/10 Bành Văn Trân, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "f3ffa26c-9721-45e7-908c-5731435abd21",
+  "lat": 10.737552,
+  "lng": 106.6202223,
+  "address": "321 Đường An Dương Vương, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "5f7cf25b-599d-49db-90fc-cbec5a10d7c1",
+  "lat": 20.92929987,
+  "lng": 105.78807023,
+  "address": "KĐT Thanh Hà - Xã Bình Minh,Thành phố Hà Nội"
+ },
+ {
+  "id": "270ab9cd-61d2-4f6d-b265-27036c736aeb",
+  "lat": 10.71763531,
+  "lng": 106.60760981,
+  "address": "Chung Cư Akari City-Nam Long 77 Võ Văn Kiệt, Phường An Lạc, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "e4a76921-1575-4847-97a9-c04ee0aea7f6",
+  "lat": 10.9687476,
+  "lng": 106.6412477,
+  "address": "Công Ty TNHH Kd Ladovie Xã Bình Mỹ, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "6a2fa0c1-aaf4-4883-909d-754876030265",
+  "lat": 20.96801598,
+  "lng": 105.78745852,
+  "address": "Bệnh Viện Quân Y 103 - Phường Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "6ec9446c-aecf-4396-884d-12e63e13d242",
+  "lat": 21.1589125,
+  "lng": 105.76132813,
+  "address": "5Q56+HG8 - Xã Mê Linh,Thành phố Hà Nội"
+ },
+ {
+  "id": "017d401d-cc97-465c-a416-d45c5503173d",
+  "lat": 20.95067877,
+  "lng": 105.79270215,
+  "address": "Chung Cư Mipec City View-Tòa M4, Phường Kiến Hưng, Thành phố Hà Nội"
+ },
+ {
+  "id": "25c283cf-b014-41f1-90a4-b623dfdae5af",
+  "lat": 10.81239732,
+  "lng": 106.71058124,
+  "address": "82/14 Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, TP.HCM"
+ },
+ {
+  "id": "63c581d1-6351-43f0-8e18-699f0d4dadf7",
+  "lat": 20.94797401,
+  "lng": 105.79037967,
+  "address": "Khu Đìa Lão, Phường Kiến Hưng, Quận Hà Đông, Thành phố Hà Nội"
+ },
+ {
+  "id": "a3d7dc2c-9b8c-4685-b702-1b45fd044138",
+  "lat": 10.8800552,
+  "lng": 106.6780829,
+  "address": "Chợ Thạnh Xuân, Phường Thạnh Xuân, Quận 12, Thành phố Hồ Chí Minh"
+ },
+ {
+  "id": "3fcf315b-0839-43cb-b2a5-7af38e4e457c",
+  "lat": 10.77547836,
+  "lng": 106.61720986,
+  "address": "3 Miếu Bình Đông Phường Bình Trị Đông, Thành Phố Hồ Chí Minh"
+ }
+]
