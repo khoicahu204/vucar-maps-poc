@@ -74,13 +74,19 @@ async def matrix(req: MatrixRequest):
     n_src, n_dst = len(sources), len(targets)
     durations = [[None] * n_dst for _ in range(n_src)]
     distances = [[None] * n_dst for _ in range(n_src)]
-    for cell in data["sources_to_targets"]:
-        i, j = cell["from_index"], cell["to_index"]
-        # Valhalla time = seconds, distance = km (units=km) → meters
-        if cell.get("time") is not None:
-            durations[i][j] = int(cell["time"])
-        if cell.get("distance") is not None:
-            distances[i][j] = round(cell["distance"] * 1000.0)
+    # Valhalla trả verbose=true: sources_to_targets là list row-major, mỗi row
+    # là list cell {from_index, to_index, time, distance} — flatten 2 cấp.
+    rows = data["sources_to_targets"]
+    if rows and isinstance(rows[0], dict):
+        rows = [rows]  # phòng trường hợp đã flatten
+    for row in rows:
+        for cell in row:
+            i, j = cell["from_index"], cell["to_index"]
+            # Valhalla time = seconds, distance = km (units=km) → meters
+            if cell.get("time") is not None:
+                durations[i][j] = int(cell["time"])
+            if cell.get("distance") is not None:
+                distances[i][j] = round(cell["distance"] * 1000.0)
 
     return {"code": "OK", "durations": durations, "distances": distances}
 
