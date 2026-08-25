@@ -53,6 +53,7 @@ ovh() { # method path [body]
   curl -fsS -X "$method" "$API$path" \
     -H "X-Ovh-Application: $OVH_APPLICATION_KEY" \
     -H "X-Ovh-Consumer: $OVH_CONSUMER_KEY" \
+    -H "X-Ovh-Timestamp: $ts" \
     -H "X-Ovh-Signature: $full_sig" \
     ${body:+-H "Content-Type: application/json" -d "$body"}
 }

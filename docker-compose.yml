@@ -1,26 +1,30 @@
 # Self-hosted maps POC — Valhalla (matrix/routing) + FastAPI adapter
 #
-# Cách dùng:
-#   cp .env.example .env          # set OSM_URL, VIETMAP_API_KEY (cho benchmark)
-#   make download-osm             # tải vietnam-latest.osm.pbf (~1.2GB)
-#   make up                       # build Valhalla graph (lần đầu 10-30 phút) + adapter
-#   make benchmark                # so sánh Valhalla vs Vietmap trên 10 tuyến mẫu
+# Dùng ghcr.io/valhalla/valhalla-scripted:latest — image tự build graph từ
+# *.osm.pbf trong /custom_files rồi serve /sources_to_targets (matrix),
+# costing=motor_scooter. Env chi tiết: docker/README.md của valhalla.
 #
-# Lưu ý: image Valhalla build graph tự động lần chạy đầu (RAM cần ~4-6GB).
+# Cách dùng:
+#   cp .env.example .env
+#   make download-osm        # tải vietnam-latest.osm.pbf vào data/custom_files
+#   make up                  # build graph lần đầu 10-30 phút
+#   make benchmark           # so sánh Valhalla vs Vietmap
 
 services:
   valhalla:
-    image: ghcr.io/valhalla/valhalla:latest
+    image: ghcr.io/valhalla/valhalla-scripted:latest
     container_name: vucar-valhalla
     restart: unless-stopped
     ports:
       - "8002:8002"
     volumes:
-      - ./valhalla/valhalla.json:/config/valhalla.json
       - ./data/custom_files:/custom_files
     environment:
-      - tile_urls=${TILE_URLS:-}
-      - use_tiles_ignore_pbf=${USE_TILES_IGNORE_PBF:-}
+      - build_admins=true
+      - build_time_zones=true
+      - build_elevation=false
+      - server_threads=4
+      - serve_tiles=true
     healthcheck:
       test: ["CMD-SHELL", "curl -fsS http://localhost:8002/status || exit 1"]
       interval: 20s
