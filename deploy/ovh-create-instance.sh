@@ -68,7 +68,14 @@ else
 fi
 echo "    project: $PROJECT_ID"
 
-echo "==> [2/5] Tìm flavor + image Ubuntu 24.04 tại $REGION"
+echo "==> [2/5] Chọn region + flavor + image"
+# Ưu tiên Singapore (latency VN thấp), nếu không có thì GRA, rồi region đầu tiên
+if [ -z "${OVH_REGION:-}" ]; then
+  REGION=$(ovh GET "/cloud/project/$PROJECT_ID/region" \
+    | jq -r '.[].name' | grep -iE "sgb|sgp|sing|gra11" | head -1)
+  [ -z "$REGION" ] && REGION=$(ovh GET "/cloud/project/$PROJECT_ID/region" | jq -r '.[].name' | head -1)
+  echo "    (tự chọn region: $REGION — set OVH_REGION nếu muốn khác)"
+fi
 FLAVOR_ID=$(ovh GET "/cloud/project/$PROJECT_ID/flavor?region=$REGION" \
   | jq -r ".[] | select(.name==\"$FLAVOR\") | .id" | head -1)
 [ -n "$FLAVOR_ID" ] || { echo "❌ Không tìm thấy flavor $FLAVOR tại $REGION (thử: d2-2, d2-4, b2-7)"; exit 1; }
