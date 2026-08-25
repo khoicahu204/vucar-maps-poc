@@ -1,0 +1,11 @@
+# Runtime data (OSM extract + Valhalla graph) — không commit
+data/
+custom_files/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Env
+.env

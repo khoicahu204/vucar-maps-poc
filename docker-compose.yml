@@ -1,0 +1,51 @@
+# Self-hosted maps POC — Valhalla (matrix/routing) + FastAPI adapter
+#
+# Cách dùng:
+#   cp .env.example .env          # set OSM_URL, VIETMAP_API_KEY (cho benchmark)
+#   make download-osm             # tải vietnam-latest.osm.pbf (~1.2GB)
+#   make up                       # build Valhalla graph (lần đầu 10-30 phút) + adapter
+#   make benchmark                # so sánh Valhalla vs Vietmap trên 10 tuyến mẫu
+#
+# Lưu ý: image Valhalla build graph tự động lần chạy đầu (RAM cần ~4-6GB).
+
+services:
+  valhalla:
+    image: ghcr.io/valhalla/valhalla:latest
+    container_name: vucar-valhalla
+    restart: unless-stopped
+    ports:
+      - "8002:8002"
+    volumes:
+      - ./valhalla/valhalla.json:/config/valhalla.json
+      - ./data/custom_files:/custom_files
+    environment:
+      - tile_urls=${TILE_URLS:-}
+      - use_tiles_ignore_pbf=${USE_TILES_IGNORE_PBF:-}
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8002/status || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 90
+      start_period: 1500s  # lần đầu build graph VN 10-30 phút
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+
+  adapter:
+    build: ./adapter
+    container_name: vucar-maps-adapter
+    restart: unless-stopped
+    ports:
+      - "8010:8010"
+    environment:
+      - VALHALLA_URL=http://valhalla:8002
+      - VIETMAP_API_KEY=${VIETMAP_API_KEY:-}
+    depends_on:
+      valhalla:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8010/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 6
