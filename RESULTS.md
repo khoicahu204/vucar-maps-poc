@@ -64,3 +64,18 @@ VIETMAP_API_KEY=... VALHALLA_URL=http://15.235.202.74:8010 \
 - ❓ Geocode (address→coords): chưa test (cần Nominatim VN build 1-2h)
 
 **Khuyến nghị: giữ Vietmap + cache (PR #407).** Valhalla chỉ là backup nếu sau này chi phí tăng lại.
+
+## Bổ sung 25/08 — 50 route THẬT từ moving_time (89 maplocation)
+
+| Chỉ số | DISTANCE | TIME |
+|---|---|---|
+| |mean Δ| | 1.93 km | **15.5 phút** |
+| bias | **+0.26 km** ✅ | **+15.2 phút** ❌ |
+| NO_ROUTE | 2/50 (1 cross-region 1677km + 1 plus-code) | |
+
+**Phát hiện chính:**
+- ✅ **Distance khớp gần như hoàn hảo** (bias +0.26km) → Valhalla tìm ĐÚNG đường, đúng km.
+- ❌ **Time lệch hệ thống +15 phút** → do **speed profile chậm hơn xe máy VN thực tế** (Valhalla ~28 km/h vs Vietmap ~47 km/h trung bình).
+- 💡 **Hệ quả tốt**: route đúng → chỉ cần **calibrate tốc độ** (time = distance / 40-45 km/h, hoặc hệ số ~1.5-1.7) là khớp. Không phải sai đường.
+
+**Geocode test (address→coords):** đang build Nominatim VN trên VM (import ~1-2h) — sẽ geocode 89-100 địa chỉ thật so với tọa độ lưu.
