@@ -111,8 +111,11 @@ def main():
             diffs.append(d)
             note = "✓" if abs(d) <= 2 else ("⚠️" if abs(d) <= 5 else "✗")
             print(f"{name:<38} {vm_min:>10.1f} {vh_min:>10.1f} {d:>+9.1f}   {note}")
+        elif vh_min is None:
+            print(f"{name:<38} {'—':>10} {'NO_ROUTE':>10} {'—':>9}   ⚠️ Valhalla không tìm được đường")
         else:
-            print(f"{name:<38} {'—':>10} {vh_min:>10.1f} {'—':>9}   (chỉ Valhalla)")
+            vh_s = "—" if vh_min is None else f"{vh_min:>9.1f}"
+            print(f"{name:<38} {'—':>10} {vh_s:>10} {'—':>9}   (chỉ Valhalla)")
 
     if diffs:
         print("-" * 66)
