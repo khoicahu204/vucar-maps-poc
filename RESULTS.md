@@ -55,8 +55,12 @@ VIETMAP_API_KEY=... VALHALLA_URL=http://15.235.202.74:8010 \
 **Kết luận quan trọng:**
 1. ✅ **Khoảng cách OK** — Valhalla tính distance khá sát Vietmap (bias +0.6km, 57% lệch ≤10%).
 2. ❌ **Thời gian lệch hệ thống +8→+13 phút** — do speed profile thấp hơn xe máy VN thực tế (cần calibrate, chưa đạt tiêu chí).
-3. ❌❌ **NO_ROUTE = 33%** — Valhalla không route được ~1/3 tuyến thật (plus-code/vùng OSM thiếu đường/snap fail). Đây là rào cản lớn nhất cho scheduling (không tính được travel = không validate được slot).
+3. ⚠️ **NO_ROUTE = 33%** (trong test này) nhưng sau khi phân loại: **chủ yếu là cross-region** (office HCM → Hà Nội/Đà Nẵng — KHÔNG phải tuyến KĐV thật; Vietmap cũng trả 19-20 giờ vô nghĩa). Riêng **cùng vùng**: chỉ 1 gap thật (Q6→Q10, Vietmap 9.3 phút, Valhalla NO_ROUTE — OSM thiếu hẻm Q6). Cross-region thì Valhalla không route được (không quan trọng cho scheduling).
 
-→ **Valhalla/OSM hiện CHƯA thay thế được Vietmap cho scheduling** (distance ok nhưng time bias + NO_ROUTE quá cao). Giữ Vietmap + cache (PR #407) là hướng khả thi nhất hiện tại.
+→ **Verdict cuối: Valhalla/OSM CHƯA thay thế được Vietmap cho scheduling:**
+- ✅ Distance: khớp (bias +0.6km)
+- ❌ **Time: bias +8→+13 phút** (speed profile chậm hơn xe máy VN) — cần calibrate, chưa đạt
+- ⚠️ Gap cùng vùng hiếm nhưng CÓ (Q6) — cần fallback
+- ❓ Geocode (address→coords): chưa test (cần Nominatim VN build 1-2h)
 
-Test geocode (address→coords) chưa chạy — cần build Nominatim/Photon VN (~1-2h) — kết quả routing cho thấy OSM VN còn lỗ hổng, nên cân nhắc trước khi đầu tư thời gian.
+**Khuyến nghị: giữ Vietmap + cache (PR #407).** Valhalla chỉ là backup nếu sau này chi phí tăng lại.
