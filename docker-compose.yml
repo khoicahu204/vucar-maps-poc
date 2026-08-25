@@ -24,7 +24,7 @@ services:
       - build_time_zones=true
       - build_elevation=false
       - server_threads=4
-      - serve_tiles=true
+      - serve_tiles=True
     healthcheck:
       test: ["CMD-SHELL", "curl -fsS http://localhost:8002/status || exit 1"]
       interval: 20s
